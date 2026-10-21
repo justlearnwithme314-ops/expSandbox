@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bti762newpqif"
+path="res://.godot/imported/S_EnergyTube_Pink_X.vox-14a7e23f770b5ddcf56d523a5a3c0a2d.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_EnergyTube_Pink_X.vox"
+dest_files=["res://.godot/imported/S_EnergyTube_Pink_X.vox-14a7e23f770b5ddcf56d523a5a3c0a2d.tscn"]
+
+[params]
+

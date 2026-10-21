@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6ik2y4s6lfjp"
+path="res://.godot/imported/church-35-lanternglass.obj-426e7610cbc50cf0868fc39ff3930f10.mesh"
+
+[deps]
+
+files=["res://.godot/imported/church-35-lanternglass.obj-426e7610cbc50cf0868fc39ff3930f10.mesh"]
+
+source_file="res://assets/XeehSets_Church_and_Cemetery1-8-2020/obj/church-35-lanternglass.obj"
+dest_files=["res://.godot/imported/church-35-lanternglass.obj-426e7610cbc50cf0868fc39ff3930f10.mesh", "res://.godot/imported/church-35-lanternglass.obj-426e7610cbc50cf0868fc39ff3930f10.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

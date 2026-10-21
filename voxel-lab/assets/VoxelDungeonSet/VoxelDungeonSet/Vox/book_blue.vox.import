@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://81yy2cdknqel"
+path="res://.godot/imported/book_blue.vox-93c61e4721533f4527643f76f9871555.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/book_blue.vox"
+dest_files=["res://.godot/imported/book_blue.vox-93c61e4721533f4527643f76f9871555.tscn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://digbfawrbubbw"
+path="res://.godot/imported/S_GrassCube_Yellowish.vox-bf0bd11b97dc0c9c32b8d01d81f8ff27.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_GrassCube_Yellowish.vox"
+dest_files=["res://.godot/imported/S_GrassCube_Yellowish.vox-bf0bd11b97dc0c9c32b8d01d81f8ff27.tscn"]
+
+[params]
+

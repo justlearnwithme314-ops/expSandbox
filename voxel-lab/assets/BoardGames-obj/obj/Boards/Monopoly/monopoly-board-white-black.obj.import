@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dmt0rqv8i87t1"
+path="res://.godot/imported/monopoly-board-white-black.obj-1baed84afcf9fb425861ffae480b0736.mesh"
+
+[deps]
+
+files=["res://.godot/imported/monopoly-board-white-black.obj-1baed84afcf9fb425861ffae480b0736.mesh"]
+
+source_file="res://assets/BoardGames-obj/obj/Boards/Monopoly/monopoly-board-white-black.obj"
+dest_files=["res://.godot/imported/monopoly-board-white-black.obj-1baed84afcf9fb425861ffae480b0736.mesh", "res://.godot/imported/monopoly-board-white-black.obj-1baed84afcf9fb425861ffae480b0736.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

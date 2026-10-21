@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b7m85yn814bxb"
+path="res://.godot/imported/key.vox-b5be5fe5e6cd8cfbbaa1eb9afcaf00a6.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/key.vox"
+dest_files=["res://.godot/imported/key.vox-b5be5fe5e6cd8cfbbaa1eb9afcaf00a6.tscn"]
+
+[params]
+

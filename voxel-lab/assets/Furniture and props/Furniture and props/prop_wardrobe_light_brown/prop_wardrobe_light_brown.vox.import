@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b8qmynydunsyd"
+path="res://.godot/imported/prop_wardrobe_light_brown.vox-70177615b228bf76f4d86afdddfd4cd8.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_wardrobe_light_brown/prop_wardrobe_light_brown.vox"
+dest_files=["res://.godot/imported/prop_wardrobe_light_brown.vox-70177615b228bf76f4d86afdddfd4cd8.tscn"]
+
+[params]
+

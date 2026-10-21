@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d00kkpggdicfx"
+path="res://.godot/imported/fluid.glsl-86be2b579245906cee561bcbb8478f18.res"
+
+[deps]
+
+source_file="res://minecraf_mos_reference/Create-mc1.21.1-dev/Create-mc1.21.1-dev/src/main/resources/assets/create/flywheel/instance/cull/fluid.glsl"
+dest_files=["res://.godot/imported/fluid.glsl-86be2b579245906cee561bcbb8478f18.res"]
+
+[params]
+

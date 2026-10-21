@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bgliw2te8i6bn"
+path="res://.godot/imported/02.obj-397d04a88928ecad27c4959133f28bdf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/02.obj-397d04a88928ecad27c4959133f28bdf.mesh"]
+
+source_file="res://assets/Voxel RPG Weapons (Individual assets)/Voxel RPG Weapons/02.obj"
+dest_files=["res://.godot/imported/02.obj-397d04a88928ecad27c4959133f28bdf.mesh", "res://.godot/imported/02.obj-397d04a88928ecad27c4959133f28bdf.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

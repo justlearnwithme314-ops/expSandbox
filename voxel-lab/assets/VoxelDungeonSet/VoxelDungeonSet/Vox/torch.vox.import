@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://32y2msrb08f3"
+path="res://.godot/imported/torch.vox-04860430b9701bfc8d4b9bab97b73d01.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/torch.vox"
+dest_files=["res://.godot/imported/torch.vox-04860430b9701bfc8d4b9bab97b73d01.tscn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b6ubisx5w3aun"
+path="res://.godot/imported/mana_potion.vox-776cd45b8e7b3b42ed629194c691a536.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/mana_potion.vox"
+dest_files=["res://.godot/imported/mana_potion.vox-776cd45b8e7b3b42ed629194c691a536.tscn"]
+
+[params]
+

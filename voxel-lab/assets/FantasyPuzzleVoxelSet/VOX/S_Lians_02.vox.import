@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dtilgat3jvo5i"
+path="res://.godot/imported/S_Lians_02.vox-de5d43a9818ee6fa5f59f3910f0c9c83.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Lians_02.vox"
+dest_files=["res://.godot/imported/S_Lians_02.vox-de5d43a9818ee6fa5f59f3910f0c9c83.tscn"]
+
+[params]
+

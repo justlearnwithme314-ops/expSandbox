@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bilvviqe082w"
+path="res://.godot/imported/S_Gun_PtoB.vox-b81f8ec5cd0e2809257eb24b85bfdfa8.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Gun_PtoB.vox"
+dest_files=["res://.godot/imported/S_Gun_PtoB.vox-b81f8ec5cd0e2809257eb24b85bfdfa8.tscn"]
+
+[params]
+

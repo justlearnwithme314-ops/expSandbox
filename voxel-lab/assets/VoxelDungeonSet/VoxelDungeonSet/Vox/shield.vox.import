@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cctrmemr6c2tf"
+path="res://.godot/imported/shield.vox-49fca2c79c5c0287ca0b4dc6584796e1.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/shield.vox"
+dest_files=["res://.godot/imported/shield.vox-49fca2c79c5c0287ca0b4dc6584796e1.tscn"]
+
+[params]
+

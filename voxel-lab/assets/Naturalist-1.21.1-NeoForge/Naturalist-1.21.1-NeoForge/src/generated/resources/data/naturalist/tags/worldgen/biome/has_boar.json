@@ -1,0 +1,26 @@
+{
+  "values": [
+    "#minecraft:is_savanna",
+    "#minecraft:is_forest",
+    {
+      "id": "#c:is_savanna",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:prairie",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:rocky_shrubland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:shrubland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:woodland",
+      "required": false
+    }
+  ]
+}

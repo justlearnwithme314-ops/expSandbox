@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bwrylkinxbln2"
+path="res://.godot/imported/grass.vox-26df6f650ab224b910beba0f4e57e29d.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/grass.vox"
+dest_files=["res://.godot/imported/grass.vox-26df6f650ab224b910beba0f4e57e29d.tscn"]
+
+[params]
+

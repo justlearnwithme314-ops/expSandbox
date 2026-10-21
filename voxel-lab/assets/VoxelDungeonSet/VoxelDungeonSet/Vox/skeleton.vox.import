@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://833hjvuvgctb"
+path="res://.godot/imported/skeleton.vox-049834c0096ff0824b515e76b0382f8b.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/skeleton.vox"
+dest_files=["res://.godot/imported/skeleton.vox-049834c0096ff0824b515e76b0382f8b.tscn"]
+
+[params]
+

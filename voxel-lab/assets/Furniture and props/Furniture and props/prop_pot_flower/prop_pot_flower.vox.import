@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bikw5bla4lqst"
+path="res://.godot/imported/prop_pot_flower.vox-54218f9e5e30a774ce62494b51f8d7dd.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_pot_flower/prop_pot_flower.vox"
+dest_files=["res://.godot/imported/prop_pot_flower.vox-54218f9e5e30a774ce62494b51f8d7dd.tscn"]
+
+[params]
+

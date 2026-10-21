@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cc2b2aocnx5us"
+path="res://.godot/imported/tavern-48-table.obj-614f3c3432ba94562e1b198730aef44b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tavern-48-table.obj-614f3c3432ba94562e1b198730aef44b.mesh"]
+
+source_file="res://assets/XeehSets_Tavern2-8-2020/Tavern OBJ/tavern-48-table.obj"
+dest_files=["res://.godot/imported/tavern-48-table.obj-614f3c3432ba94562e1b198730aef44b.mesh", "res://.godot/imported/tavern-48-table.obj-614f3c3432ba94562e1b198730aef44b.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

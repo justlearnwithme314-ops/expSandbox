@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://yrd13a6pc8va"
+path="res://.godot/imported/heart.vox-b130dbf01702f18729b7f51c88e64760.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/heart.vox"
+dest_files=["res://.godot/imported/heart.vox-b130dbf01702f18729b7f51c88e64760.tscn"]
+
+[params]
+

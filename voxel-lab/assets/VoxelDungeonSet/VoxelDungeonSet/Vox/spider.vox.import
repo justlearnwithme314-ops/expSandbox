@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bx671oxpylxal"
+path="res://.godot/imported/spider.vox-27c9353d2f032d4ebb9762bc86d3ba39.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/spider.vox"
+dest_files=["res://.godot/imported/spider.vox-27c9353d2f032d4ebb9762bc86d3ba39.tscn"]
+
+[params]
+

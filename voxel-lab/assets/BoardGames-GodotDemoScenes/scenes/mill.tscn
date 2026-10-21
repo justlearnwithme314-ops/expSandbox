@@ -1,0 +1,104 @@
+[gd_scene load_steps=5 format=3 uid="uid://b8qax3qp67vss"]
+
+[ext_resource type="PackedScene" uid="uid://blguhd6w1e3wm" path="res://assets/boards/mill/mill-board-black-white.gltf" id="1_sgvxp"]
+[ext_resource type="PackedScene" uid="uid://b6gd8vsryxoqe" path="res://assets/pieces/man/man-v4-black.gltf" id="2_qvjof"]
+[ext_resource type="PackedScene" uid="uid://cio4aydrvv7s1" path="res://assets/pieces/man/man-v4-white.gltf" id="3_vbgnp"]
+
+[sub_resource type="Environment" id="Environment_o82ag"]
+glow_enabled = true
+glow_strength = 0.8
+adjustment_brightness = 2.0
+adjustment_contrast = 1.13
+adjustment_saturation = 3.28
+
+[node name="Mill" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_o82ag")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 10, 0)
+light_energy = 0.2
+shadow_enabled = true
+distance_fade_shadow = 0.0
+distance_fade_length = 97.15
+omni_range = 30.0
+omni_attenuation = -0.4
+
+[node name="OmniLight3D2" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10, 20, 0)
+light_energy = 0.8
+light_size = 1.0
+shadow_enabled = true
+omni_range = 30.0
+omni_attenuation = -0.362
+
+[node name="OmniLight3D3" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 20, 0)
+light_energy = 0.8
+light_size = 1.0
+shadow_enabled = true
+omni_range = 30.0
+omni_attenuation = -0.362
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.707107, -0.5, 0.5, 0, 0.707107, 0.707107, -0.707107, -0.5, 0.5, 30, 42.5, 30)
+projection = 1
+fov = 32.0
+size = 26.442
+
+[node name="mill-board-black-white" parent="." instance=ExtResource("1_sgvxp")]
+
+[node name="man-v4-black" parent="mill-board-black-white" instance=ExtResource("2_qvjof")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.611, 8.4)
+
+[node name="man-v4-black2" parent="mill-board-black-white" instance=ExtResource("2_qvjof")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.6, 0.611, 5.6)
+
+[node name="man-v4-black3" parent="mill-board-black-white" instance=ExtResource("2_qvjof")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.6, 0.611, 5.6)
+
+[node name="man-v4-black4" parent="mill-board-black-white" instance=ExtResource("2_qvjof")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.6, 0.611, -5.6)
+
+[node name="man-v4-black5" parent="mill-board-black-white" instance=ExtResource("2_qvjof")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.611, -5.6)
+
+[node name="man-v4-black6" parent="mill-board-black-white" instance=ExtResource("2_qvjof")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.1, 0.0895564, 11.9)
+
+[node name="man-v4-black7" parent="mill-board-black-white" instance=ExtResource("2_qvjof")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.35, 0.0895564, 11.9)
+
+[node name="man-v4-black8" parent="mill-board-black-white" instance=ExtResource("2_qvjof")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.6, 0.0895564, 11.9)
+
+[node name="man-v4-black9" parent="mill-board-black-white" instance=ExtResource("2_qvjof")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.85, 0.0895564, 11.9)
+
+[node name="man-v4-white" parent="mill-board-black-white" instance=ExtResource("3_vbgnp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.611, 5.6)
+
+[node name="man-v4-white2" parent="mill-board-black-white" instance=ExtResource("3_vbgnp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.611, -2.8)
+
+[node name="man-v4-white3" parent="mill-board-black-white" instance=ExtResource("3_vbgnp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.4, 0.611, -8.4)
+
+[node name="man-v4-white6" parent="mill-board-black-white" instance=ExtResource("3_vbgnp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.1, 0.0895564, -11.9)
+
+[node name="man-v4-white7" parent="mill-board-black-white" instance=ExtResource("3_vbgnp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.4, 0.611, 0)
+
+[node name="man-v4-white8" parent="mill-board-black-white" instance=ExtResource("3_vbgnp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.35, 0.0895564, -11.9)
+
+[node name="man-v4-white9" parent="mill-board-black-white" instance=ExtResource("3_vbgnp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.6, 0.0895564, -11.9)
+
+[node name="man-v4-white4" parent="mill-board-black-white" instance=ExtResource("3_vbgnp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.6, 0.611, -5.6)
+
+[node name="man-v4-white5" parent="mill-board-black-white" instance=ExtResource("3_vbgnp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.611, -8.4)

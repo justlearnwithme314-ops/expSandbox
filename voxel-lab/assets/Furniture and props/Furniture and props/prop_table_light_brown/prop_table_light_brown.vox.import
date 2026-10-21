@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://047p4vbsp408"
+path="res://.godot/imported/prop_table_light_brown.vox-8fabd63c9c652d710f747e5ab75b8fb9.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_table_light_brown/prop_table_light_brown.vox"
+dest_files=["res://.godot/imported/prop_table_light_brown.vox-8fabd63c9c652d710f747e5ab75b8fb9.tscn"]
+
+[params]
+

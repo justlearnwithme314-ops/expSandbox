@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://c3qpg7edxaysi"
+path="res://.godot/imported/MedievalCity.vox-ce74d4370b1018002af325105dd3d621.tscn"
+
+[deps]
+
+source_file="res://assets/Medieval Voxel Buildings by JoseluGames/Source/MedievalCity.vox"
+dest_files=["res://.godot/imported/MedievalCity.vox-ce74d4370b1018002af325105dd3d621.tscn"]
+
+[params]
+

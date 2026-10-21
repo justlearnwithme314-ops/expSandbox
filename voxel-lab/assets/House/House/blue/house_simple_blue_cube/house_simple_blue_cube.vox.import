@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://c041htmy26gvn"
+path="res://.godot/imported/house_simple_blue_cube.vox-bc3647807ec1e3251eb69775347616a5.tscn"
+
+[deps]
+
+source_file="res://assets/House/House/blue/house_simple_blue_cube/house_simple_blue_cube.vox"
+dest_files=["res://.godot/imported/house_simple_blue_cube.vox-bc3647807ec1e3251eb69775347616a5.tscn"]
+
+[params]
+

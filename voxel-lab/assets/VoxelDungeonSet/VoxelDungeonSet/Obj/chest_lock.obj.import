@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cbxh8hwcsrcct"
+path="res://.godot/imported/chest_lock.obj-f6675d53cc7eb71d0cb669e36afd6d3a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chest_lock.obj-f6675d53cc7eb71d0cb669e36afd6d3a.mesh"]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Obj/chest_lock.obj"
+dest_files=["res://.godot/imported/chest_lock.obj-f6675d53cc7eb71d0cb669e36afd6d3a.mesh", "res://.godot/imported/chest_lock.obj-f6675d53cc7eb71d0cb669e36afd6d3a.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

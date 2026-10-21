@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cj5t53bcw88bc"
+path="res://.godot/imported/tavern-50-plantbig.obj-073511eead719c535f1a30bf7eb7ab3b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tavern-50-plantbig.obj-073511eead719c535f1a30bf7eb7ab3b.mesh"]
+
+source_file="res://assets/XeehSets_Tavern2-8-2020/Tavern OBJ/tavern-50-plantbig.obj"
+dest_files=["res://.godot/imported/tavern-50-plantbig.obj-073511eead719c535f1a30bf7eb7ab3b.mesh", "res://.godot/imported/tavern-50-plantbig.obj-073511eead719c535f1a30bf7eb7ab3b.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

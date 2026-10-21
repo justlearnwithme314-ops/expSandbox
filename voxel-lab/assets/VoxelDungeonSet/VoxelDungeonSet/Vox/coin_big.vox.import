@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bfmgf536eul2k"
+path="res://.godot/imported/coin_big.vox-6ad99ff9fa4cd9caabf3db5439896a26.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/coin_big.vox"
+dest_files=["res://.godot/imported/coin_big.vox-6ad99ff9fa4cd9caabf3db5439896a26.tscn"]
+
+[params]
+

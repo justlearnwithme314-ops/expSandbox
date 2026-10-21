@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bml4ujwg64jps"
+path="res://.godot/imported/overworld-35-sand_pyramid.obj-2b61a83b0dbc4d5e96a5ffdefdcdbdcd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/overworld-35-sand_pyramid.obj-2b61a83b0dbc4d5e96a5ffdefdcdbdcd.mesh"]
+
+source_file="res://assets/Hexatilesv1(1)/Obj/overworld-35-sand_pyramid.obj"
+dest_files=["res://.godot/imported/overworld-35-sand_pyramid.obj-2b61a83b0dbc4d5e96a5ffdefdcdbdcd.mesh", "res://.godot/imported/overworld-35-sand_pyramid.obj-2b61a83b0dbc4d5e96a5ffdefdcdbdcd.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

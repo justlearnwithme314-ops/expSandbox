@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c45ln1608d05i"
+path="res://.godot/imported/house_simple_red_cube.obj-ea4a4929266be167978e19dcc0accb66.mesh"
+
+[deps]
+
+files=["res://.godot/imported/house_simple_red_cube.obj-ea4a4929266be167978e19dcc0accb66.mesh"]
+
+source_file="res://assets/House/House/red/house_simple_red_cube/obj/house_simple_red_cube.obj"
+dest_files=["res://.godot/imported/house_simple_red_cube.obj-ea4a4929266be167978e19dcc0accb66.mesh", "res://.godot/imported/house_simple_red_cube.obj-ea4a4929266be167978e19dcc0accb66.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

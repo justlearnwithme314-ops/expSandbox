@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://c533twg7ojws2"
+path="res://.godot/imported/human_base_colored.vox-b4b9aafa09b6c51cb2104577614006c4.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/human_base_colored.vox"
+dest_files=["res://.godot/imported/human_base_colored.vox-b4b9aafa09b6c51cb2104577614006c4.tscn"]
+
+[params]
+

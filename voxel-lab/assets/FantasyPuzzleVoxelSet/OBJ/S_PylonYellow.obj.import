@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://boulxijo0ibs"
+path="res://.godot/imported/S_PylonYellow.obj-ce41e058988b2974385ccfb613a755da.mesh"
+
+[deps]
+
+files=["res://.godot/imported/S_PylonYellow.obj-ce41e058988b2974385ccfb613a755da.mesh"]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/OBJ/S_PylonYellow.obj"
+dest_files=["res://.godot/imported/S_PylonYellow.obj-ce41e058988b2974385ccfb613a755da.mesh", "res://.godot/imported/S_PylonYellow.obj-ce41e058988b2974385ccfb613a755da.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://f0a8ild845il"
+path="res://.godot/imported/S_GrassCube_Tall.vox-e1b7ef1084f3b4f41a8049c85909c412.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_GrassCube_Tall.vox"
+dest_files=["res://.godot/imported/S_GrassCube_Tall.vox-e1b7ef1084f3b4f41a8049c85909c412.tscn"]
+
+[params]
+

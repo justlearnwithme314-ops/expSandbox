@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://kepgwc7jfimw"
+path="res://.godot/imported/church-58-gy_tombstone1.obj-c2b91f6466d2161dfd411f0b42237726.mesh"
+
+[deps]
+
+files=["res://.godot/imported/church-58-gy_tombstone1.obj-c2b91f6466d2161dfd411f0b42237726.mesh"]
+
+source_file="res://assets/XeehSets_Church_and_Cemetery1-8-2020/obj/church-58-gy_tombstone1.obj"
+dest_files=["res://.godot/imported/church-58-gy_tombstone1.obj-c2b91f6466d2161dfd411f0b42237726.mesh", "res://.godot/imported/church-58-gy_tombstone1.obj-c2b91f6466d2161dfd411f0b42237726.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

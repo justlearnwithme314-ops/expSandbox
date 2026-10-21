@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://c2uypmvtsqinx"
+path="res://.godot/imported/wall_flat.vox-6d71dd468fe2db86a6725fdf0a16dcf1.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/wall_flat.vox"
+dest_files=["res://.godot/imported/wall_flat.vox-6d71dd468fe2db86a6725fdf0a16dcf1.tscn"]
+
+[params]
+

@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bhgvwg8aheref"
+path="res://.godot/imported/FloorBroken.obj-ed13987c9f9fc8d9db4c371c70ea8795.mesh"
+
+[deps]
+
+files=["res://.godot/imported/FloorBroken.obj-ed13987c9f9fc8d9db4c371c70ea8795.mesh"]
+
+source_file="res://assets/ColdBiomStandard/ColdBiomStandard/House/FloorBroken.obj"
+dest_files=["res://.godot/imported/FloorBroken.obj-ed13987c9f9fc8d9db4c371c70ea8795.mesh", "res://.godot/imported/FloorBroken.obj-ed13987c9f9fc8d9db4c371c70ea8795.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

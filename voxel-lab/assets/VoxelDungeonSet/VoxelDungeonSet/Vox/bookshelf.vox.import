@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://ct88wnem2ant8"
+path="res://.godot/imported/bookshelf.vox-f47ee9d7f834dbe9cf089b5faef83299.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/bookshelf.vox"
+dest_files=["res://.godot/imported/bookshelf.vox-f47ee9d7f834dbe9cf089b5faef83299.tscn"]
+
+[params]
+

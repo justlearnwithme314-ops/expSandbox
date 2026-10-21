@@ -1,0 +1,152 @@
+[gd_scene load_steps=15 format=3 uid="uid://dbdmd73p8k4gl"]
+
+[ext_resource type="PackedScene" uid="uid://hcoi05yrfsp4" path="res://assets/boards/chess/chess-board-brown-tan.gltf" id="1_aqn2x"]
+[ext_resource type="PackedScene" uid="uid://dhs43tub4nphx" path="res://assets/pieces/chess/chess-bishop-brown.gltf" id="2_cahfl"]
+[ext_resource type="PackedScene" uid="uid://djrlxn2icdlc8" path="res://assets/pieces/chess/chess-bishop-tan.gltf" id="3_sokfi"]
+[ext_resource type="PackedScene" uid="uid://hxbuaan0xix2" path="res://assets/pieces/chess/chess-king-brown.gltf" id="4_04kk1"]
+[ext_resource type="PackedScene" uid="uid://qon7wywqvnjb" path="res://assets/pieces/chess/chess-king-tan.gltf" id="5_wr1oc"]
+[ext_resource type="PackedScene" uid="uid://2svva6fxjsjo" path="res://assets/pieces/chess/chess-knight-brown.gltf" id="6_jfkbh"]
+[ext_resource type="PackedScene" uid="uid://dfj7glmab5x8k" path="res://assets/pieces/chess/chess-knight-tan.gltf" id="7_7eetf"]
+[ext_resource type="PackedScene" uid="uid://dbtv21fsbh7jm" path="res://assets/pieces/chess/chess-pawn-brown.gltf" id="8_1xsbh"]
+[ext_resource type="PackedScene" uid="uid://cuwspeqj3e5c2" path="res://assets/pieces/chess/chess-pawn-tan.gltf" id="9_se811"]
+[ext_resource type="PackedScene" uid="uid://dhj1j3l7k1aiy" path="res://assets/pieces/chess/chess-queen-brown.gltf" id="10_f8uja"]
+[ext_resource type="PackedScene" uid="uid://bbrbmvcplktxe" path="res://assets/pieces/chess/chess-queen-tan.gltf" id="11_liib6"]
+[ext_resource type="PackedScene" uid="uid://df0wl4k46ntvm" path="res://assets/pieces/chess/chess-rock-brown.gltf" id="12_303q8"]
+[ext_resource type="PackedScene" uid="uid://wyer1b28fw5r" path="res://assets/pieces/chess/chess-rock-tan.gltf" id="13_ikt2q"]
+
+[sub_resource type="Environment" id="Environment_f06m8"]
+glow_enabled = true
+glow_strength = 0.8
+adjustment_brightness = 2.0
+adjustment_contrast = 1.13
+adjustment_saturation = 3.28
+
+[node name="Chess" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_f06m8")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 10, 0)
+light_energy = 0.2
+light_size = 1.0
+shadow_enabled = true
+omni_range = 21.0
+omni_attenuation = -0.362
+
+[node name="OmniLight3D2" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10, 20, 0)
+light_size = 1.0
+omni_range = 30.0
+omni_attenuation = -0.362
+
+[node name="OmniLight3D3" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 20, 0)
+light_size = 1.0
+omni_range = 30.0
+omni_attenuation = -0.362
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.707107, -0.5, 0.5, 0, 0.707107, 0.707107, -0.707107, -0.5, 0.5, 30, 42.5, 30)
+projection = 1
+fov = 32.0
+size = 26.442
+
+[node name="chess-board-brown-tan" parent="." instance=ExtResource("1_aqn2x")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.622821, -0.297988)
+
+[node name="chess-bishop-brown" parent="chess-board-brown-tan" instance=ExtResource("2_cahfl")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -8.4, 0.622821, 3.89799)
+
+[node name="chess-bishop-brown2" parent="chess-board-brown-tan" instance=ExtResource("2_cahfl")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -8.4, 0.622821, -3.30201)
+
+[node name="chess-bishop-tan" parent="chess-board-brown-tan" instance=ExtResource("3_sokfi")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 8.4, 0.622821, -3.30201)
+
+[node name="chess-bishop-tan2" parent="chess-board-brown-tan" instance=ExtResource("3_sokfi")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 8.4, 0.622821, 3.89799)
+
+[node name="chess-king-brown" parent="chess-board-brown-tan" instance=ExtResource("4_04kk1")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -8.4, 0.622821, -0.902012)
+
+[node name="chess-king-tan" parent="chess-board-brown-tan" instance=ExtResource("5_wr1oc")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 8.4, 0.622821, -0.902012)
+
+[node name="chess-knight-brown" parent="chess-board-brown-tan" instance=ExtResource("6_jfkbh")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -8.4, 0.622821, -5.70201)
+
+[node name="chess-knight-brown2" parent="chess-board-brown-tan" instance=ExtResource("6_jfkbh")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -8.4, 0.622821, 6.29799)
+
+[node name="chess-knight-tan" parent="chess-board-brown-tan" instance=ExtResource("7_7eetf")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 8.4, 0.622821, 6.29799)
+
+[node name="chess-knight-tan2" parent="chess-board-brown-tan" instance=ExtResource("7_7eetf")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 8.4, 0.622821, -5.70201)
+
+[node name="chess-pawn-brown" parent="chess-board-brown-tan" instance=ExtResource("8_1xsbh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0.622821, 8.69799)
+
+[node name="chess-pawn-brown2" parent="chess-board-brown-tan" instance=ExtResource("8_1xsbh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0.622821, 6.29799)
+
+[node name="chess-pawn-brown3" parent="chess-board-brown-tan" instance=ExtResource("8_1xsbh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0.622821, 3.89799)
+
+[node name="chess-pawn-brown4" parent="chess-board-brown-tan" instance=ExtResource("8_1xsbh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0.622821, 1.49799)
+
+[node name="chess-pawn-brown5" parent="chess-board-brown-tan" instance=ExtResource("8_1xsbh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0.622821, -0.902012)
+
+[node name="chess-pawn-brown6" parent="chess-board-brown-tan" instance=ExtResource("8_1xsbh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0.622821, -3.30201)
+
+[node name="chess-pawn-brown7" parent="chess-board-brown-tan" instance=ExtResource("8_1xsbh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0.622821, -5.70201)
+
+[node name="chess-pawn-brown8" parent="chess-board-brown-tan" instance=ExtResource("8_1xsbh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0.622821, -8.10201)
+
+[node name="chess-pawn-tan" parent="chess-board-brown-tan" instance=ExtResource("9_se811")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.622821, 8.69799)
+
+[node name="chess-pawn-tan2" parent="chess-board-brown-tan" instance=ExtResource("9_se811")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.622821, 6.29799)
+
+[node name="chess-pawn-tan3" parent="chess-board-brown-tan" instance=ExtResource("9_se811")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.622821, 3.89799)
+
+[node name="chess-pawn-tan4" parent="chess-board-brown-tan" instance=ExtResource("9_se811")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.622821, 1.49799)
+
+[node name="chess-pawn-tan5" parent="chess-board-brown-tan" instance=ExtResource("9_se811")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.622821, -0.902012)
+
+[node name="chess-pawn-tan6" parent="chess-board-brown-tan" instance=ExtResource("9_se811")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.622821, -3.30201)
+
+[node name="chess-pawn-tan7" parent="chess-board-brown-tan" instance=ExtResource("9_se811")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.622821, -5.70201)
+
+[node name="chess-pawn-tan8" parent="chess-board-brown-tan" instance=ExtResource("9_se811")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.622821, -8.10201)
+
+[node name="chess-queen-brown" parent="chess-board-brown-tan" instance=ExtResource("10_f8uja")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.4, 0.622821, 1.49799)
+
+[node name="chess-queen-tan" parent="chess-board-brown-tan" instance=ExtResource("11_liib6")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.4, 0.622821, 1.49799)
+
+[node name="chess-rock-brown" parent="chess-board-brown-tan" instance=ExtResource("12_303q8")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.4, 0.622821, 8.69799)
+
+[node name="chess-rock-brown2" parent="chess-board-brown-tan" instance=ExtResource("12_303q8")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.4, 0.622821, -8.10201)
+
+[node name="chess-rock-tan" parent="chess-board-brown-tan" instance=ExtResource("13_ikt2q")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.4, 0.622821, 8.69799)
+
+[node name="chess-rock-tan2" parent="chess-board-brown-tan" instance=ExtResource("13_ikt2q")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.4, 0.622821, -8.10201)

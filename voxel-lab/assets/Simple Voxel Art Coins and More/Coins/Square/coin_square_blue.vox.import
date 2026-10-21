@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://1oyo27opm0vt"
+path="res://.godot/imported/coin_square_blue.vox-d33733163b74326f7f42bed0c38b1463.tscn"
+
+[deps]
+
+source_file="res://assets/Simple Voxel Art Coins and More/Coins/Square/coin_square_blue.vox"
+dest_files=["res://.godot/imported/coin_square_blue.vox-d33733163b74326f7f42bed0c38b1463.tscn"]
+
+[params]
+

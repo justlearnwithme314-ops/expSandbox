@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b2d4vjr72xlb6"
+path="res://.godot/imported/prop_table_dark_green.vox-51ebd02761996310631d916ba9d057b8.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_table_dark_green/prop_table_dark_green.vox"
+dest_files=["res://.godot/imported/prop_table_dark_green.vox-51ebd02761996310631d916ba9d057b8.tscn"]
+
+[params]
+

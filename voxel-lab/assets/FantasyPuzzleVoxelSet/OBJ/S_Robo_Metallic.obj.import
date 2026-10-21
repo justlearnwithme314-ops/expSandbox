@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vl4g2qj6vemu"
+path="res://.godot/imported/S_Robo_Metallic.obj-883201d1d1455d683e04af1553b46120.mesh"
+
+[deps]
+
+files=["res://.godot/imported/S_Robo_Metallic.obj-883201d1d1455d683e04af1553b46120.mesh"]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/OBJ/S_Robo_Metallic.obj"
+dest_files=["res://.godot/imported/S_Robo_Metallic.obj-883201d1d1455d683e04af1553b46120.mesh", "res://.godot/imported/S_Robo_Metallic.obj-883201d1d1455d683e04af1553b46120.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

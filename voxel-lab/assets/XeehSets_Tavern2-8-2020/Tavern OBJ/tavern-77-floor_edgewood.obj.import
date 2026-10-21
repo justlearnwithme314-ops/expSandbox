@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bb52twyno23g"
+path="res://.godot/imported/tavern-77-floor_edgewood.obj-98387e88050cffbf5c3a91657619db4f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tavern-77-floor_edgewood.obj-98387e88050cffbf5c3a91657619db4f.mesh"]
+
+source_file="res://assets/XeehSets_Tavern2-8-2020/Tavern OBJ/tavern-77-floor_edgewood.obj"
+dest_files=["res://.godot/imported/tavern-77-floor_edgewood.obj-98387e88050cffbf5c3a91657619db4f.mesh", "res://.godot/imported/tavern-77-floor_edgewood.obj-98387e88050cffbf5c3a91657619db4f.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

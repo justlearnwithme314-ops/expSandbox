@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://uj12fy5uqosp"
+path="res://.godot/imported/MediumHouse2.obj-5ff7ced53fa104096c87d6bf91f779fe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/MediumHouse2.obj-5ff7ced53fa104096c87d6bf91f779fe.mesh"]
+
+source_file="res://assets/Medieval Voxel Buildings by JoseluGames/Exported/MediumHouse2.obj"
+dest_files=["res://.godot/imported/MediumHouse2.obj-5ff7ced53fa104096c87d6bf91f779fe.mesh", "res://.godot/imported/MediumHouse2.obj-5ff7ced53fa104096c87d6bf91f779fe.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

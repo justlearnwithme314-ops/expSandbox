@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://do156p0umkk2a"
+path="res://.godot/imported/health_potion.vox-d8805df8e8d0f8d4dea781facca6a4c1.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/health_potion.vox"
+dest_files=["res://.godot/imported/health_potion.vox-d8805df8e8d0f8d4dea781facca6a4c1.tscn"]
+
+[params]
+

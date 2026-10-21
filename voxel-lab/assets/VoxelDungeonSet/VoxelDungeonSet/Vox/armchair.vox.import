@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cbcdfvfx8aou0"
+path="res://.godot/imported/armchair.vox-4de7ad033371905acdeadc708d9d7e11.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/armchair.vox"
+dest_files=["res://.godot/imported/armchair.vox-4de7ad033371905acdeadc708d9d7e11.tscn"]
+
+[params]
+

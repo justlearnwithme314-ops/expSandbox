@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dtls4cgofkbb8"
+path="res://.godot/imported/roof_simple_brown_rectangular.vox-ac118f9bdfec7e52f59fd5ef0c76e018.tscn"
+
+[deps]
+
+source_file="res://assets/House/House/roofs/roof_simple_brown_rectangular/roof_simple_brown_rectangular.vox"
+dest_files=["res://.godot/imported/roof_simple_brown_rectangular.vox-ac118f9bdfec7e52f59fd5ef0c76e018.tscn"]
+
+[params]
+

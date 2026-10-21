@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cw2yiwapvejtb"
+path="res://.godot/imported/prop_oven_glassless.obj-aa288358c79563b0a33df3e1e05a6b04.mesh"
+
+[deps]
+
+files=["res://.godot/imported/prop_oven_glassless.obj-aa288358c79563b0a33df3e1e05a6b04.mesh"]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_oven_glassless/obj/prop_oven_glassless.obj"
+dest_files=["res://.godot/imported/prop_oven_glassless.obj-aa288358c79563b0a33df3e1e05a6b04.mesh", "res://.godot/imported/prop_oven_glassless.obj-aa288358c79563b0a33df3e1e05a6b04.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

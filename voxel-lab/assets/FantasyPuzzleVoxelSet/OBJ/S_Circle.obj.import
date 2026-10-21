@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://clbmqmg75yem1"
+path="res://.godot/imported/S_Circle.obj-2259f7339158a462051e72f4c2387643.mesh"
+
+[deps]
+
+files=["res://.godot/imported/S_Circle.obj-2259f7339158a462051e72f4c2387643.mesh"]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/OBJ/S_Circle.obj"
+dest_files=["res://.godot/imported/S_Circle.obj-2259f7339158a462051e72f4c2387643.mesh", "res://.godot/imported/S_Circle.obj-2259f7339158a462051e72f4c2387643.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

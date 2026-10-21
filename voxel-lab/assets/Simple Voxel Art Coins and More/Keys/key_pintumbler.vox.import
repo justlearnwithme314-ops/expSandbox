@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://d3bd3hnv7t558"
+path="res://.godot/imported/key_pintumbler.vox-92ffff53a5d75cbec22f6bd4f785e8c1.tscn"
+
+[deps]
+
+source_file="res://assets/Simple Voxel Art Coins and More/Keys/key_pintumbler.vox"
+dest_files=["res://.godot/imported/key_pintumbler.vox-92ffff53a5d75cbec22f6bd4f785e8c1.tscn"]
+
+[params]
+

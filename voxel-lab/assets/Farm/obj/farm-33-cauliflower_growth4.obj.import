@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ssnkob7teuq2"
+path="res://.godot/imported/farm-33-cauliflower_growth4.obj-b2fa09e6c3af0138d7184d4146ceb16e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/farm-33-cauliflower_growth4.obj-b2fa09e6c3af0138d7184d4146ceb16e.mesh"]
+
+source_file="res://assets/Farm/obj/farm-33-cauliflower_growth4.obj"
+dest_files=["res://.godot/imported/farm-33-cauliflower_growth4.obj-b2fa09e6c3af0138d7184d4146ceb16e.mesh", "res://.godot/imported/farm-33-cauliflower_growth4.obj-b2fa09e6c3af0138d7184d4146ceb16e.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

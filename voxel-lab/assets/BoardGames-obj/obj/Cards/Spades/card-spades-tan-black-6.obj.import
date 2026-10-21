@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c5hr200xs6obs"
+path="res://.godot/imported/card-spades-tan-black-6.obj-83cd7f5b6e281a552777a6f871d6f1bd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/card-spades-tan-black-6.obj-83cd7f5b6e281a552777a6f871d6f1bd.mesh"]
+
+source_file="res://assets/BoardGames-obj/obj/Cards/Spades/card-spades-tan-black-6.obj"
+dest_files=["res://.godot/imported/card-spades-tan-black-6.obj-83cd7f5b6e281a552777a6f871d6f1bd.mesh", "res://.godot/imported/card-spades-tan-black-6.obj-83cd7f5b6e281a552777a6f871d6f1bd.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

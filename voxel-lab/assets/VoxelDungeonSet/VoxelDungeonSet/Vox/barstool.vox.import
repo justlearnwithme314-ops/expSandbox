@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bg6kw04ruvm4v"
+path="res://.godot/imported/barstool.vox-78e44b5e26b4db993c52815e6be4f549.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/barstool.vox"
+dest_files=["res://.godot/imported/barstool.vox-78e44b5e26b4db993c52815e6be4f549.tscn"]
+
+[params]
+

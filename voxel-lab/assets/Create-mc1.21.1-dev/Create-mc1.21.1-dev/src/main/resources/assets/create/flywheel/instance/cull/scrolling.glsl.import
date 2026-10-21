@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bw0ho5ffdgod8"
+path="res://.godot/imported/scrolling.glsl-b23ca111e9dbf93a3197bd6d5708373e.res"
+
+[deps]
+
+source_file="res://minecraf_mos_reference/Create-mc1.21.1-dev/Create-mc1.21.1-dev/src/main/resources/assets/create/flywheel/instance/cull/scrolling.glsl"
+dest_files=["res://.godot/imported/scrolling.glsl-b23ca111e9dbf93a3197bd6d5708373e.res"]
+
+[params]
+

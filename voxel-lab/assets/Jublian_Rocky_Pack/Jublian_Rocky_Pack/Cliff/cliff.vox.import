@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bnrt40vmhro11"
+path="res://.godot/imported/cliff.vox-9a710ef0ea1bdb49fbee597dbc0d89ec.tscn"
+
+[deps]
+
+source_file="res://assets/Jublian_Rocky_Pack/Jublian_Rocky_Pack/Cliff/cliff.vox"
+dest_files=["res://.godot/imported/cliff.vox-9a710ef0ea1bdb49fbee597dbc0d89ec.tscn"]
+
+[params]
+

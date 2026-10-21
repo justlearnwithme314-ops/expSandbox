@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bwr040d5g2ie3"
+path="res://.godot/imported/S_Flowers_01.vox-4ec2982d46199eff50ee18e0f70b49d4.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Flowers_01.vox"
+dest_files=["res://.godot/imported/S_Flowers_01.vox-4ec2982d46199eff50ee18e0f70b49d4.tscn"]
+
+[params]
+

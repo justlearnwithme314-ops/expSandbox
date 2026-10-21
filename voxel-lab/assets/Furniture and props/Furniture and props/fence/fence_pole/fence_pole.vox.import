@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://brvp4ph2kkkbp"
+path="res://.godot/imported/fence_pole.vox-1162b2dded579f8973d6f057708df901.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/fence/fence_pole/fence_pole.vox"
+dest_files=["res://.godot/imported/fence_pole.vox-1162b2dded579f8973d6f057708df901.tscn"]
+
+[params]
+

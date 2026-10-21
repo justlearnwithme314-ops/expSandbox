@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://8gy2x536yhtl"
+path="res://.godot/imported/poison.vox-ed391d076f07a407f57d90605955d5f4.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/poison.vox"
+dest_files=["res://.godot/imported/poison.vox-ed391d076f07a407f57d90605955d5f4.tscn"]
+
+[params]
+

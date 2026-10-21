@@ -1,0 +1,17 @@
+name: Native core
+on: [push, pull_request]
+jobs:
+  core:
+    strategy:
+      matrix:
+        os: [windows-latest, ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python tools/fetch_references.py
+      - run: cmake -S . -B build/ci -DVOXEL_BUILD_CLIENT=OFF -DCMAKE_BUILD_TYPE=Release
+      - run: cmake --build build/ci --config Release --parallel
+      - run: ctest --test-dir build/ci -C Release --output-on-failure

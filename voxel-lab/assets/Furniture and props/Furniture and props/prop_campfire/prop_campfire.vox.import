@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dnoaouva8u7vo"
+path="res://.godot/imported/prop_campfire.vox-a6901c069e0c4b30579033c5bf74b1d3.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_campfire/prop_campfire.vox"
+dest_files=["res://.godot/imported/prop_campfire.vox-a6901c069e0c4b30579033c5bf74b1d3.tscn"]
+
+[params]
+

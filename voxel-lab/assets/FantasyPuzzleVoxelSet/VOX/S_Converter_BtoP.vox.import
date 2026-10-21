@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://qlwcfk1dyxbu"
+path="res://.godot/imported/S_Converter_BtoP.vox-22c5c580346ff2c23c7e4b1d505a888b.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Converter_BtoP.vox"
+dest_files=["res://.godot/imported/S_Converter_BtoP.vox-22c5c580346ff2c23c7e4b1d505a888b.tscn"]
+
+[params]
+

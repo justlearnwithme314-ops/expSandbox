@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://btw013o3kanno"
+path="res://.godot/imported/S_Crystal_Pink.vox-3c205aec3e7d02d449d50ddf640596f6.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Crystal_Pink.vox"
+dest_files=["res://.godot/imported/S_Crystal_Pink.vox-3c205aec3e7d02d449d50ddf640596f6.tscn"]
+
+[params]
+

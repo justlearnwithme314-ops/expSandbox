@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cljvj8ddpv3qu"
+path="res://.godot/imported/bench.vox-a7f9077a0c47c3a2a9d218b4bf011b56.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/bench.vox"
+dest_files=["res://.godot/imported/bench.vox-a7f9077a0c47c3a2a9d218b4bf011b56.tscn"]
+
+[params]
+

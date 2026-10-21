@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cnmu6mcuqrdy2"
+path="res://.godot/imported/tavern-71-wall_tudor4.obj-e0495ee53c582b3298396506f17713ad.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tavern-71-wall_tudor4.obj-e0495ee53c582b3298396506f17713ad.mesh"]
+
+source_file="res://assets/XeehSets_Tavern2-8-2020/Tavern OBJ/tavern-71-wall_tudor4.obj"
+dest_files=["res://.godot/imported/tavern-71-wall_tudor4.obj-e0495ee53c582b3298396506f17713ad.mesh", "res://.godot/imported/tavern-71-wall_tudor4.obj-e0495ee53c582b3298396506f17713ad.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

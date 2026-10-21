@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b4se53r4s5bcl"
+path="res://.godot/imported/chess-board-black-white.obj-3262bf519e204f99328e043bec6420da.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chess-board-black-white.obj-3262bf519e204f99328e043bec6420da.mesh"]
+
+source_file="res://assets/BoardGames-obj/obj/Boards/Chess/chess-board-black-white.obj"
+dest_files=["res://.godot/imported/chess-board-black-white.obj-3262bf519e204f99328e043bec6420da.mesh", "res://.godot/imported/chess-board-black-white.obj-3262bf519e204f99328e043bec6420da.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

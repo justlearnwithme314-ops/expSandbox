@@ -1,0 +1,7 @@
+/build/
+/Worlds/*-wal
+/Worlds/*-shm
+/Worlds/Native*/
+/test-output/
+*.log
+/references/*/

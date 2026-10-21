@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://d4bwkf5vg6ba6"
+path="res://.godot/imported/prop_oven_glassless.vox-db14af02617a3be1e536b9ec7ba9e825.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_oven_glassless/prop_oven_glassless.vox"
+dest_files=["res://.godot/imported/prop_oven_glassless.vox-db14af02617a3be1e536b9ec7ba9e825.tscn"]
+
+[params]
+

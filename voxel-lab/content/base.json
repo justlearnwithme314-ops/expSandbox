@@ -1,0 +1,1377 @@
+{
+  "items": [
+    {
+      "id": "core:air",
+      "name": "Air",
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "kind": "block",
+      "solid": false,
+      "placeable": false
+    },
+    {
+      "id": "core:grass",
+      "name": "Meadow grass",
+      "color": [
+        105,
+        151,
+        73
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "core:dirt",
+      "name": "Earth",
+      "color": [
+        137,
+        96,
+        64
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "core:stone",
+      "name": "Stone",
+      "color": [
+        141,
+        146,
+        151
+      ],
+      "kind": "block",
+      "hardness": 1.8
+    },
+    {
+      "id": "core:log",
+      "name": "Oak log",
+      "color": [
+        126,
+        91,
+        57
+      ],
+      "kind": "block",
+      "hardness": 1.3
+    },
+    {
+      "id": "core:leaves",
+      "name": "Oak leaves",
+      "color": [
+        75,
+        130,
+        61
+      ],
+      "kind": "block",
+      "hardness": 0.2
+    },
+    {
+      "id": "core:sand",
+      "name": "Sand",
+      "color": [
+        216,
+        196,
+        139
+      ],
+      "kind": "block",
+      "hardness": 0.5
+    },
+    {
+      "id": "core:gravel",
+      "name": "Gravel",
+      "color": [
+        139,
+        133,
+        128
+      ],
+      "kind": "block",
+      "hardness": 0.6
+    },
+    {
+      "id": "core:snow",
+      "name": "Snow",
+      "color": [
+        225,
+        235,
+        239
+      ],
+      "kind": "block",
+      "hardness": 0.5
+    },
+    {
+      "id": "core:coal_ore",
+      "name": "Coal ore",
+      "color": [
+        76,
+        79,
+        81
+      ],
+      "kind": "block",
+      "drop": "survival:coal",
+      "hardness": 2
+    },
+    {
+      "id": "core:iron_ore",
+      "name": "Iron ore",
+      "color": [
+        174,
+        137,
+        115
+      ],
+      "kind": "block",
+      "hardness": 2.5
+    },
+    {
+      "id": "core:diamond_ore",
+      "name": "Diamond ore",
+      "color": [
+        79,
+        204,
+        203
+      ],
+      "kind": "block",
+      "drop": "frontier:diamond",
+      "hardness": 4
+    },
+    {
+      "id": "core:bedrock",
+      "name": "Bedrock",
+      "color": [
+        57,
+        60,
+        66
+      ],
+      "kind": "block",
+      "hardness": 1000
+    },
+    {
+      "id": "building:planks",
+      "name": "Oak planks",
+      "color": [
+        186,
+        143,
+        86
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "building:bricks",
+      "name": "Red brick",
+      "color": [
+        174,
+        89,
+        67
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "building:glass",
+      "name": "Glass",
+      "color": [
+        146,
+        201,
+        212
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "building:torch",
+      "name": "Torch",
+      "color": [
+        242,
+        183,
+        67
+      ],
+      "kind": "block",
+      "solid": false
+    },
+    {
+      "id": "building:bed",
+      "name": "Bed",
+      "color": [
+        191,
+        73,
+        67
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "building:tnt",
+      "name": "TNT",
+      "color": [
+        216,
+        76,
+        60
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "adventure:gate",
+      "name": "Sanctum gate",
+      "color": [
+        166,
+        101,
+        208
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "survival:chest",
+      "name": "Storage chest",
+      "color": [
+        163,
+        113,
+        54
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "crafting:workbench",
+      "name": "Workbench",
+      "color": [
+        143,
+        100,
+        57
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "crafting:furnace",
+      "name": "Furnace",
+      "color": [
+        92,
+        97,
+        103
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "industry:generator",
+      "name": "Coal generator",
+      "color": [
+        183,
+        140,
+        59
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "industry:battery",
+      "name": "Energy battery",
+      "color": [
+        71,
+        149,
+        157
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "industry:crusher",
+      "name": "Ore crusher",
+      "color": [
+        140,
+        155,
+        174
+      ],
+      "kind": "block"
+    },
+    {
+      "id": "survival:crop",
+      "name": "Wheat crop",
+      "color": [
+        176,
+        185,
+        74
+      ],
+      "kind": "block",
+      "solid": false,
+      "drop": "survival:wheat_seeds",
+      "hardness": 0.1
+    },
+    {
+      "id": "survival:apple",
+      "name": "Apple",
+      "color": [
+        207,
+        70,
+        57
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 5
+    },
+    {
+      "id": "survival:meat",
+      "name": "Raw meat",
+      "color": [
+        207,
+        130,
+        113
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 3
+    },
+    {
+      "id": "survival:bread",
+      "name": "Bread",
+      "color": [
+        200,
+        156,
+        78
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 7
+    },
+    {
+      "id": "survival:wheat",
+      "name": "Wheat",
+      "color": [
+        212,
+        190,
+        88
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 0
+    },
+    {
+      "id": "survival:wheat_seeds",
+      "name": "Wheat seeds",
+      "color": [
+        122,
+        171,
+        72
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 0
+    },
+    {
+      "id": "survival:coal",
+      "name": "Coal",
+      "color": [
+        54,
+        57,
+        62
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 0
+    },
+    {
+      "id": "survival:stick",
+      "name": "Stick",
+      "color": [
+        156,
+        117,
+        72
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 0
+    },
+    {
+      "id": "survival:arrow",
+      "name": "Arrow",
+      "color": [
+        201,
+        192,
+        167
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 0
+    },
+    {
+      "id": "frontier:iron_ingot",
+      "name": "Iron ingot",
+      "color": [
+        196,
+        206,
+        209
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 0
+    },
+    {
+      "id": "frontier:diamond",
+      "name": "Diamond",
+      "color": [
+        80,
+        220,
+        219
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 0
+    },
+    {
+      "id": "industry:iron_dust",
+      "name": "Iron dust",
+      "color": [
+        166,
+        127,
+        108
+      ],
+      "kind": "item",
+      "placeable": false,
+      "food": 0
+    },
+    {
+      "id": "frontier:wood_pickaxe",
+      "name": "Wood pickaxe",
+      "color": [
+        175,
+        127,
+        74
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 100,
+      "speed": 1.7,
+      "damage": 3
+    },
+    {
+      "id": "frontier:wood_axe",
+      "name": "Wood axe",
+      "color": [
+        175,
+        127,
+        74
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 100,
+      "speed": 1.7,
+      "damage": 3
+    },
+    {
+      "id": "frontier:wood_shovel",
+      "name": "Wood shovel",
+      "color": [
+        175,
+        127,
+        74
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 100,
+      "speed": 1.7,
+      "damage": 3
+    },
+    {
+      "id": "frontier:wood_sword",
+      "name": "Wood sword",
+      "color": [
+        175,
+        127,
+        74
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 100,
+      "speed": 1.7,
+      "damage": 5
+    },
+    {
+      "id": "frontier:wood_hoe",
+      "name": "Wood hoe",
+      "color": [
+        175,
+        127,
+        74
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 100,
+      "speed": 1.7,
+      "damage": 3
+    },
+    {
+      "id": "frontier:stone_pickaxe",
+      "name": "Stone pickaxe",
+      "color": [
+        151,
+        156,
+        160
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 250,
+      "speed": 2.5,
+      "damage": 4
+    },
+    {
+      "id": "frontier:stone_axe",
+      "name": "Stone axe",
+      "color": [
+        151,
+        156,
+        160
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 250,
+      "speed": 2.5,
+      "damage": 4
+    },
+    {
+      "id": "frontier:stone_shovel",
+      "name": "Stone shovel",
+      "color": [
+        151,
+        156,
+        160
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 250,
+      "speed": 2.5,
+      "damage": 4
+    },
+    {
+      "id": "frontier:stone_sword",
+      "name": "Stone sword",
+      "color": [
+        151,
+        156,
+        160
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 250,
+      "speed": 2.5,
+      "damage": 6
+    },
+    {
+      "id": "frontier:stone_hoe",
+      "name": "Stone hoe",
+      "color": [
+        151,
+        156,
+        160
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 250,
+      "speed": 2.5,
+      "damage": 4
+    },
+    {
+      "id": "frontier:iron_pickaxe",
+      "name": "Iron pickaxe",
+      "color": [
+        203,
+        214,
+        219
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 600,
+      "speed": 3.7,
+      "damage": 6
+    },
+    {
+      "id": "frontier:iron_axe",
+      "name": "Iron axe",
+      "color": [
+        203,
+        214,
+        219
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 600,
+      "speed": 3.7,
+      "damage": 6
+    },
+    {
+      "id": "frontier:iron_shovel",
+      "name": "Iron shovel",
+      "color": [
+        203,
+        214,
+        219
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 600,
+      "speed": 3.7,
+      "damage": 6
+    },
+    {
+      "id": "frontier:iron_sword",
+      "name": "Iron sword",
+      "color": [
+        203,
+        214,
+        219
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 600,
+      "speed": 3.7,
+      "damage": 8
+    },
+    {
+      "id": "frontier:iron_hoe",
+      "name": "Iron hoe",
+      "color": [
+        203,
+        214,
+        219
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 600,
+      "speed": 3.7,
+      "damage": 6
+    },
+    {
+      "id": "frontier:diamond_pickaxe",
+      "name": "Diamond pickaxe",
+      "color": [
+        75,
+        215,
+        213
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 1400,
+      "speed": 5.5,
+      "damage": 8
+    },
+    {
+      "id": "frontier:diamond_axe",
+      "name": "Diamond axe",
+      "color": [
+        75,
+        215,
+        213
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 1400,
+      "speed": 5.5,
+      "damage": 8
+    },
+    {
+      "id": "frontier:diamond_shovel",
+      "name": "Diamond shovel",
+      "color": [
+        75,
+        215,
+        213
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 1400,
+      "speed": 5.5,
+      "damage": 8
+    },
+    {
+      "id": "frontier:diamond_sword",
+      "name": "Diamond sword",
+      "color": [
+        75,
+        215,
+        213
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 1400,
+      "speed": 5.5,
+      "damage": 10
+    },
+    {
+      "id": "frontier:diamond_hoe",
+      "name": "Diamond hoe",
+      "color": [
+        75,
+        215,
+        213
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 1400,
+      "speed": 5.5,
+      "damage": 8
+    },
+    {
+      "id": "survival:bow",
+      "name": "Bow",
+      "color": [
+        192,
+        151,
+        85
+      ],
+      "kind": "tool",
+      "placeable": false,
+      "stack": 1,
+      "durability": 300,
+      "damage": 6
+    }
+  ],
+  "recipes": [
+    {
+      "id": "crafting:planks",
+      "name": "Saw planks",
+      "inputs": [
+        [
+          "core:log",
+          1
+        ]
+      ],
+      "output": [
+        "building:planks",
+        4
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:sticks",
+      "name": "Carve sticks",
+      "inputs": [
+        [
+          "building:planks",
+          2
+        ]
+      ],
+      "output": [
+        "survival:stick",
+        4
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:workbench",
+      "name": "Build workbench",
+      "inputs": [
+        [
+          "building:planks",
+          4
+        ]
+      ],
+      "output": [
+        "crafting:workbench",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:chest",
+      "name": "Build chest",
+      "inputs": [
+        [
+          "building:planks",
+          8
+        ]
+      ],
+      "output": [
+        "survival:chest",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:furnace",
+      "name": "Build furnace",
+      "inputs": [
+        [
+          "core:stone",
+          8
+        ]
+      ],
+      "output": [
+        "crafting:furnace",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:torch",
+      "name": "Make torches",
+      "inputs": [
+        [
+          "survival:coal",
+          1
+        ],
+        [
+          "survival:stick",
+          1
+        ]
+      ],
+      "output": [
+        "building:torch",
+        4
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:bread",
+      "name": "Bake bread",
+      "inputs": [
+        [
+          "survival:wheat",
+          3
+        ]
+      ],
+      "output": [
+        "survival:bread",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:arrows",
+      "name": "Make arrows",
+      "inputs": [
+        [
+          "core:stone",
+          1
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "survival:arrow",
+        8
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:bow",
+      "name": "Build bow",
+      "inputs": [
+        [
+          "survival:stick",
+          3
+        ],
+        [
+          "core:leaves",
+          3
+        ]
+      ],
+      "output": [
+        "survival:bow",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:bricks",
+      "name": "Masonry",
+      "inputs": [
+        [
+          "core:stone",
+          4
+        ]
+      ],
+      "output": [
+        "building:bricks",
+        4
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:bed",
+      "name": "Build bed",
+      "inputs": [
+        [
+          "building:planks",
+          3
+        ],
+        [
+          "core:leaves",
+          3
+        ]
+      ],
+      "output": [
+        "building:bed",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:tnt",
+      "name": "Build TNT",
+      "inputs": [
+        [
+          "core:sand",
+          4
+        ],
+        [
+          "survival:coal",
+          4
+        ]
+      ],
+      "output": [
+        "building:tnt",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:wood_pickaxe",
+      "name": "Wood pickaxe",
+      "inputs": [
+        [
+          "building:planks",
+          3
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:wood_pickaxe",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:wood_axe",
+      "name": "Wood axe",
+      "inputs": [
+        [
+          "building:planks",
+          3
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:wood_axe",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:wood_shovel",
+      "name": "Wood shovel",
+      "inputs": [
+        [
+          "building:planks",
+          1
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:wood_shovel",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:wood_sword",
+      "name": "Wood sword",
+      "inputs": [
+        [
+          "building:planks",
+          2
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:wood_sword",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:wood_hoe",
+      "name": "Wood hoe",
+      "inputs": [
+        [
+          "building:planks",
+          2
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:wood_hoe",
+        1
+      ],
+      "station": "hand"
+    },
+    {
+      "id": "crafting:stone_pickaxe",
+      "name": "Stone pickaxe",
+      "inputs": [
+        [
+          "core:stone",
+          3
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:stone_pickaxe",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:stone_axe",
+      "name": "Stone axe",
+      "inputs": [
+        [
+          "core:stone",
+          3
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:stone_axe",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:stone_shovel",
+      "name": "Stone shovel",
+      "inputs": [
+        [
+          "core:stone",
+          1
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:stone_shovel",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:stone_sword",
+      "name": "Stone sword",
+      "inputs": [
+        [
+          "core:stone",
+          2
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:stone_sword",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:stone_hoe",
+      "name": "Stone hoe",
+      "inputs": [
+        [
+          "core:stone",
+          2
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:stone_hoe",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:iron_pickaxe",
+      "name": "Iron pickaxe",
+      "inputs": [
+        [
+          "frontier:iron_ingot",
+          3
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:iron_pickaxe",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:iron_axe",
+      "name": "Iron axe",
+      "inputs": [
+        [
+          "frontier:iron_ingot",
+          3
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:iron_axe",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:iron_shovel",
+      "name": "Iron shovel",
+      "inputs": [
+        [
+          "frontier:iron_ingot",
+          1
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:iron_shovel",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:iron_sword",
+      "name": "Iron sword",
+      "inputs": [
+        [
+          "frontier:iron_ingot",
+          2
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:iron_sword",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:iron_hoe",
+      "name": "Iron hoe",
+      "inputs": [
+        [
+          "frontier:iron_ingot",
+          2
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:iron_hoe",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:diamond_pickaxe",
+      "name": "Diamond pickaxe",
+      "inputs": [
+        [
+          "frontier:diamond",
+          3
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:diamond_pickaxe",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:diamond_axe",
+      "name": "Diamond axe",
+      "inputs": [
+        [
+          "frontier:diamond",
+          3
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:diamond_axe",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:diamond_shovel",
+      "name": "Diamond shovel",
+      "inputs": [
+        [
+          "frontier:diamond",
+          1
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:diamond_shovel",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:diamond_sword",
+      "name": "Diamond sword",
+      "inputs": [
+        [
+          "frontier:diamond",
+          2
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:diamond_sword",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:diamond_hoe",
+      "name": "Diamond hoe",
+      "inputs": [
+        [
+          "frontier:diamond",
+          2
+        ],
+        [
+          "survival:stick",
+          2
+        ]
+      ],
+      "output": [
+        "frontier:diamond_hoe",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:generator",
+      "name": "Build generator",
+      "inputs": [
+        [
+          "frontier:iron_ingot",
+          4
+        ],
+        [
+          "core:stone",
+          4
+        ]
+      ],
+      "output": [
+        "industry:generator",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:battery",
+      "name": "Build battery",
+      "inputs": [
+        [
+          "frontier:iron_ingot",
+          4
+        ],
+        [
+          "core:stone",
+          4
+        ]
+      ],
+      "output": [
+        "industry:battery",
+        1
+      ],
+      "station": "crafting:workbench"
+    },
+    {
+      "id": "crafting:crusher",
+      "name": "Build crusher",
+      "inputs": [
+        [
+          "frontier:iron_ingot",
+          4
+        ],
+        [
+          "core:stone",
+          4
+        ]
+      ],
+      "output": [
+        "industry:crusher",
+        1
+      ],
+      "station": "crafting:workbench"
+    }
+  ]
+}

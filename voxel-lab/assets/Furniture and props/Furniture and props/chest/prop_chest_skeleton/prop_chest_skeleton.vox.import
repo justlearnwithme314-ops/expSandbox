@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dupnrosq3ka7j"
+path="res://.godot/imported/prop_chest_skeleton.vox-b8af2a2dd6ee00a2def0a562fe3caa06.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/chest/prop_chest_skeleton/prop_chest_skeleton.vox"
+dest_files=["res://.godot/imported/prop_chest_skeleton.vox-b8af2a2dd6ee00a2def0a562fe3caa06.tscn"]
+
+[params]
+

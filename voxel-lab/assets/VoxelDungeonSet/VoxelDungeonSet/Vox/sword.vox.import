@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cowc1wdbx61mj"
+path="res://.godot/imported/sword.vox-c6d2e801611ca17514f754dcfbb121b1.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/sword.vox"
+dest_files=["res://.godot/imported/sword.vox-c6d2e801611ca17514f754dcfbb121b1.tscn"]
+
+[params]
+

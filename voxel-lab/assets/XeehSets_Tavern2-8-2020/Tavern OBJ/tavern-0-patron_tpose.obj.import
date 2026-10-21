@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://st7m3a1ta1x4"
+path="res://.godot/imported/tavern-0-patron_tpose.obj-c233a98ff6dca20d05a973b52d24f1a0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tavern-0-patron_tpose.obj-c233a98ff6dca20d05a973b52d24f1a0.mesh"]
+
+source_file="res://assets/XeehSets_Tavern2-8-2020/Tavern OBJ/tavern-0-patron_tpose.obj"
+dest_files=["res://.godot/imported/tavern-0-patron_tpose.obj-c233a98ff6dca20d05a973b52d24f1a0.mesh", "res://.godot/imported/tavern-0-patron_tpose.obj-c233a98ff6dca20d05a973b52d24f1a0.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

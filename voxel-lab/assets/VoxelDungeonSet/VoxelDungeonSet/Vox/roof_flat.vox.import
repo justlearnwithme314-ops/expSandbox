@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://mj835a8lot8b"
+path="res://.godot/imported/roof_flat.vox-19a91c31a9842d30cbcc0e4754c18e24.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/roof_flat.vox"
+dest_files=["res://.godot/imported/roof_flat.vox-19a91c31a9842d30cbcc0e4754c18e24.tscn"]
+
+[params]
+

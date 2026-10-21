@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxcovn4djleuk"
+path="res://.godot/imported/WallDoorStone.obj-802313fa8dfe7442823e88ecee93950b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/WallDoorStone.obj-802313fa8dfe7442823e88ecee93950b.mesh"]
+
+source_file="res://assets/ColdBiomStandard/ColdBiomStandard/House/Stone/WallDoorStone.obj"
+dest_files=["res://.godot/imported/WallDoorStone.obj-802313fa8dfe7442823e88ecee93950b.mesh", "res://.godot/imported/WallDoorStone.obj-802313fa8dfe7442823e88ecee93950b.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

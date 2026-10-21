@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b8uu1qscxcvbx"
+path="res://.godot/imported/window_textured_big_blue_orange.vox-cf114b85f01ca2e445a90a4618c473c7.tscn"
+
+[deps]
+
+source_file="res://assets/House/House/windows/window_textured_big_blue_orange/window_textured_big_blue_orange.vox"
+dest_files=["res://.godot/imported/window_textured_big_blue_orange.vox-cf114b85f01ca2e445a90a4618c473c7.tscn"]
+
+[params]
+

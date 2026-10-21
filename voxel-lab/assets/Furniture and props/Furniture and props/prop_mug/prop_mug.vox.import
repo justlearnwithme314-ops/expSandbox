@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://djra00ndfcyoe"
+path="res://.godot/imported/prop_mug.vox-83eedc33c336d3f490f656fbf237a4d3.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_mug/prop_mug.vox"
+dest_files=["res://.godot/imported/prop_mug.vox-83eedc33c336d3f490f656fbf237a4d3.tscn"]
+
+[params]
+

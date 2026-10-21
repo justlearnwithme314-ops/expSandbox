@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drbt3wa7r6nav"
+path="res://.godot/imported/prop_chest_mysterious_blue.obj-e816d53dacf0da75839be879226cfcff.mesh"
+
+[deps]
+
+files=["res://.godot/imported/prop_chest_mysterious_blue.obj-e816d53dacf0da75839be879226cfcff.mesh"]
+
+source_file="res://assets/Furniture and props/Furniture and props/chest/prop_chest_mysterious_blue/obj/prop_chest_mysterious_blue.obj"
+dest_files=["res://.godot/imported/prop_chest_mysterious_blue.obj-e816d53dacf0da75839be879226cfcff.mesh", "res://.godot/imported/prop_chest_mysterious_blue.obj-e816d53dacf0da75839be879226cfcff.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bbnuccjfcqdvm"
+path="res://.godot/imported/S_EnergyTube_Blue_Half.vox-3bdd3e0d9d01c775963583f49bcdd4bd.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_EnergyTube_Blue_Half.vox"
+dest_files=["res://.godot/imported/S_EnergyTube_Blue_Half.vox-3bdd3e0d9d01c775963583f49bcdd4bd.tscn"]
+
+[params]
+

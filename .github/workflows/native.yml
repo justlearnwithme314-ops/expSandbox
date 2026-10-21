@@ -1,0 +1,32 @@
+name: Native platforms
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  build-test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        working-directory: voxel-lab
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python tools/build.py
+      - run: python tests/test_tools.py
+      - run: python tests/test_platform.py
+      - run: python tests/integration.py
+      - run: python tests/test_survival.py
+      - run: python tests/test_launcher.py
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node tests/physics.mjs
+      - run: cmake --install build --config Release --prefix dist
+      - uses: actions/upload-artifact@v4
+        with:
+          name: voxel-lab-${{ matrix.os }}
+          path: voxel-lab/dist/

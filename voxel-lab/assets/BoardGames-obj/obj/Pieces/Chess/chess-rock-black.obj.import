@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bbr66dg2684u"
+path="res://.godot/imported/chess-rock-black.obj-b47fabfe05525047b7fc79471a83e878.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chess-rock-black.obj-b47fabfe05525047b7fc79471a83e878.mesh"]
+
+source_file="res://assets/BoardGames-obj/obj/Pieces/Chess/chess-rock-black.obj"
+dest_files=["res://.godot/imported/chess-rock-black.obj-b47fabfe05525047b7fc79471a83e878.mesh", "res://.godot/imported/chess-rock-black.obj-b47fabfe05525047b7fc79471a83e878.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

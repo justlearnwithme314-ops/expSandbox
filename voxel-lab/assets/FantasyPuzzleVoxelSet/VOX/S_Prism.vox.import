@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://opohaje6ppfk"
+path="res://.godot/imported/S_Prism.vox-6ae8f743d99ef4ef5317a13a99249ebc.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Prism.vox"
+dest_files=["res://.godot/imported/S_Prism.vox-6ae8f743d99ef4ef5317a13a99249ebc.tscn"]
+
+[params]
+

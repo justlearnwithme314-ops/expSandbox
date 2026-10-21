@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dxl2ymsfk6wm2"
+path="res://.godot/imported/roof_textured_orange_oval_rectangular.vox-af62962db2db39d9b708f365e668d6f0.tscn"
+
+[deps]
+
+source_file="res://assets/House/House/roofs/roof_textured_orange_oval_rectangular/roof_textured_orange_oval_rectangular.vox"
+dest_files=["res://.godot/imported/roof_textured_orange_oval_rectangular.vox-af62962db2db39d9b708f365e668d6f0.tscn"]
+
+[params]
+

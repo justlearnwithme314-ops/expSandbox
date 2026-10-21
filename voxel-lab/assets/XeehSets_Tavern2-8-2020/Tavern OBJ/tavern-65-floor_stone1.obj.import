@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://yc8lq34l3ksj"
+path="res://.godot/imported/tavern-65-floor_stone1.obj-3d95d43aaf69140ed0c193f4178bd1fe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tavern-65-floor_stone1.obj-3d95d43aaf69140ed0c193f4178bd1fe.mesh"]
+
+source_file="res://assets/XeehSets_Tavern2-8-2020/Tavern OBJ/tavern-65-floor_stone1.obj"
+dest_files=["res://.godot/imported/tavern-65-floor_stone1.obj-3d95d43aaf69140ed0c193f4178bd1fe.mesh", "res://.godot/imported/tavern-65-floor_stone1.obj-3d95d43aaf69140ed0c193f4178bd1fe.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

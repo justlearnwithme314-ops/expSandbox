@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://deqh3w70n7vy4"
+path="res://.godot/imported/Voxel Universe-9-Face.obj-693759c7fb9e6b636c84a120b6e7ec14.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Voxel Universe-9-Face.obj-693759c7fb9e6b636c84a120b6e7ec14.mesh"]
+
+source_file="res://assets/Voxel Universe v1.0/3D/Voxel Universe-9-Face.obj"
+dest_files=["res://.godot/imported/Voxel Universe-9-Face.obj-693759c7fb9e6b636c84a120b6e7ec14.mesh", "res://.godot/imported/Voxel Universe-9-Face.obj-693759c7fb9e6b636c84a120b6e7ec14.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

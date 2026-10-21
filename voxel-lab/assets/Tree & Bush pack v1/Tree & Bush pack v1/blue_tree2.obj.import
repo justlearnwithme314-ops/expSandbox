@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxfw34f4recmb"
+path="res://.godot/imported/blue_tree2.obj-7a26ec9636efdc7c439a26e07f0891bd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blue_tree2.obj-7a26ec9636efdc7c439a26e07f0891bd.mesh"]
+
+source_file="res://assets/Tree & Bush pack v1/Tree & Bush pack v1/blue_tree2.obj"
+dest_files=["res://.godot/imported/blue_tree2.obj-7a26ec9636efdc7c439a26e07f0891bd.mesh", "res://.godot/imported/blue_tree2.obj-7a26ec9636efdc7c439a26e07f0891bd.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

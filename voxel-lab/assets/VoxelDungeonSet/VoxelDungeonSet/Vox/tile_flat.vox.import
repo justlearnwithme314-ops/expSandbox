@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dqehrhiaijugx"
+path="res://.godot/imported/tile_flat.vox-16433b31789e558004debd2aa4fc1819.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/tile_flat.vox"
+dest_files=["res://.godot/imported/tile_flat.vox-16433b31789e558004debd2aa4fc1819.tscn"]
+
+[params]
+

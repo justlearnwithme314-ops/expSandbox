@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dquubcs2yf5eo"
+path="res://.godot/imported/prop_pot_flower.obj-7f61dec5ef053d5a9907bc4ae4399fab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/prop_pot_flower.obj-7f61dec5ef053d5a9907bc4ae4399fab.mesh"]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_pot_flower/obj/prop_pot_flower.obj"
+dest_files=["res://.godot/imported/prop_pot_flower.obj-7f61dec5ef053d5a9907bc4ae4399fab.mesh", "res://.godot/imported/prop_pot_flower.obj-7f61dec5ef053d5a9907bc4ae4399fab.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b2gk8gyawrcwn"
+path="res://.godot/imported/prop_designy_statue.vox-6258f8750edf12e712eba3818841cd36.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_designy_statue/prop_designy_statue.vox"
+dest_files=["res://.godot/imported/prop_designy_statue.vox-6258f8750edf12e712eba3818841cd36.tscn"]
+
+[params]
+

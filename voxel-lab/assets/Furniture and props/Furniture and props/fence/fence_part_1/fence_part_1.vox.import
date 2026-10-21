@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://baymxtys3874c"
+path="res://.godot/imported/fence_part_1.vox-81fd99feb0e15b0f80314dd3f7bab8d3.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/fence/fence_part_1/fence_part_1.vox"
+dest_files=["res://.godot/imported/fence_part_1.vox-81fd99feb0e15b0f80314dd3f7bab8d3.tscn"]
+
+[params]
+

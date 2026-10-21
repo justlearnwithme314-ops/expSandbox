@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dmcg7kdq07jqg"
+path="res://.godot/imported/mill-board-brown-white.obj-8eea47967e1cdd2e414fc0dd040e959e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/mill-board-brown-white.obj-8eea47967e1cdd2e414fc0dd040e959e.mesh"]
+
+source_file="res://assets/BoardGames-obj/obj/Boards/Mill/mill-board-brown-white.obj"
+dest_files=["res://.godot/imported/mill-board-brown-white.obj-8eea47967e1cdd2e414fc0dd040e959e.mesh", "res://.godot/imported/mill-board-brown-white.obj-8eea47967e1cdd2e414fc0dd040e959e.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

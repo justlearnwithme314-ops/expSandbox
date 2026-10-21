@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://c85qyo5k30xsb"
+path="res://.godot/imported/prop_chest_mysterious_dark.vox-4b6941061f33a18330a611a39a053d27.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/chest/prop_chest_mysterious_dark/prop_chest_mysterious_dark.vox"
+dest_files=["res://.godot/imported/prop_chest_mysterious_dark.vox-4b6941061f33a18330a611a39a053d27.tscn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dbgbld04mv21k"
+path="res://.godot/imported/chest_wood.vox-1695af6c47452b4f440aba349b75c439.tscn"
+
+[deps]
+
+source_file="res://assets/Simple Voxel Art Coins and More/Chests/chest_wood.vox"
+dest_files=["res://.godot/imported/chest_wood.vox-1695af6c47452b4f440aba349b75c439.tscn"]
+
+[params]
+

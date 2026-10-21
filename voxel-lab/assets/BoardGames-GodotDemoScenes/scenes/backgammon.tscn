@@ -1,0 +1,134 @@
+[gd_scene load_steps=6 format=3 uid="uid://djj5vtykmd28d"]
+
+[ext_resource type="PackedScene" uid="uid://cnolmdh74etgc" path="res://assets/boards/backgammon/backgammon-board-tan-black-red.gltf" id="1_3nidf"]
+[ext_resource type="PackedScene" uid="uid://b6gd8vsryxoqe" path="res://assets/pieces/man/man-v4-black.gltf" id="2_wvemn"]
+[ext_resource type="PackedScene" uid="uid://b43muogwp7fbr" path="res://assets/pieces/man/man-v4-red.gltf" id="3_88ynb"]
+[ext_resource type="PackedScene" uid="uid://w5lqygo821jb" path="res://assets/dices/dice-v1-tan-black.gltf" id="4_et3jr"]
+
+[sub_resource type="Environment" id="Environment_blyod"]
+glow_enabled = true
+glow_strength = 0.8
+adjustment_brightness = 2.0
+adjustment_contrast = 1.13
+adjustment_saturation = 3.28
+
+[node name="Backgammon" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_blyod")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 10, 0)
+light_energy = 0.6
+light_size = 1.0
+light_specular = 0.0
+shadow_enabled = true
+distance_fade_shadow = 0.0
+distance_fade_length = 97.15
+omni_range = 30.0
+omni_attenuation = -0.4
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.707107, -0.5, 0.5, 0, 0.707107, 0.707107, -0.707107, -0.5, 0.5, 30, 42.5, 30)
+projection = 1
+fov = 32.0
+size = 26.442
+
+[node name="backgammon-board-tan-black-red" parent="." instance=ExtResource("1_3nidf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.623, 0)
+
+[node name="man-v4-black" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.8, 0.623, 8.9)
+
+[node name="man-v4-black3" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.8, 0.623, 8.9)
+
+[node name="man-v4-black8" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.623, -8.9)
+
+[node name="man-v4-black10" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.623, -7.45)
+
+[node name="man-v4-black11" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.623, -6)
+
+[node name="man-v4-black12" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.623, -4.55)
+
+[node name="man-v4-black13" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.623, -3.1)
+
+[node name="man-v4-black9" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4, 0.623, -8.9)
+
+[node name="man-v4-black14" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4, 0.623, -7.45)
+
+[node name="man-v4-black15" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4, 0.623, -6)
+
+[node name="man-v4-black4" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.8, 0.623, 7.45)
+
+[node name="man-v4-black5" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.8, 0.623, 6)
+
+[node name="man-v4-black6" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.8, 0.623, 4.55)
+
+[node name="man-v4-black7" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.8, 0.623, 3.1)
+
+[node name="man-v4-black2" parent="backgammon-board-tan-black-red" instance=ExtResource("2_wvemn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.8, 0.623, 7.45)
+
+[node name="man-v4-red" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.623, 8.9)
+
+[node name="man-v4-red6" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4, 0.623, 8.9)
+
+[node name="man-v4-red2" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.623, 7.45)
+
+[node name="man-v4-red7" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4, 0.623, 7.45)
+
+[node name="man-v4-red3" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.623, 6)
+
+[node name="man-v4-red8" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4, 0.623, 6)
+
+[node name="man-v4-red9" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.8, 0.623, -8.9)
+
+[node name="man-v4-red12" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.8, 0.623, -7.45)
+
+[node name="man-v4-red13" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.8, 0.623, -6)
+
+[node name="man-v4-red14" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.8, 0.623, -4.55)
+
+[node name="man-v4-red15" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.8, 0.623, -3.1)
+
+[node name="man-v4-red10" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.8, 0.623, -8.9)
+
+[node name="man-v4-red11" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.8, 0.623, -7.45)
+
+[node name="man-v4-red4" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.623, 4.55)
+
+[node name="man-v4-red5" parent="backgammon-board-tan-black-red" instance=ExtResource("3_88ynb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.623, 3.1)
+
+[node name="dice-v1-tan-black" parent="backgammon-board-tan-black-red" instance=ExtResource("4_et3jr")]
+transform = Transform3D(-1, 8.74228e-08, 0, -8.74228e-08, -1, 0, 0, 0, 1, 6.59092, 1.24036, -12.5566)
+
+[node name="dice-v1-tan-black2" parent="backgammon-board-tan-black-red" instance=ExtResource("4_et3jr")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.9, 0.00564563, -12.6)

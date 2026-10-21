@@ -1,0 +1,123 @@
+[gd_scene load_steps=5 format=3 uid="uid://g5ie8frnqysj"]
+
+[ext_resource type="PackedScene" uid="uid://deyim5tcg0m4n" path="res://assets/boards/checkers/checkers-board-black-white.gltf" id="1_3bgxw"]
+[ext_resource type="PackedScene" uid="uid://3l6i58ce1ons" path="res://assets/pieces/man/man-v1-black.gltf" id="2_a1i6f"]
+[ext_resource type="PackedScene" uid="uid://62am2sphvxw1" path="res://assets/pieces/man/man-v1-white.gltf" id="3_l1ox2"]
+
+[sub_resource type="Environment" id="Environment_pncib"]
+glow_enabled = true
+glow_strength = 0.8
+adjustment_brightness = 2.0
+adjustment_contrast = 1.13
+adjustment_saturation = 3.28
+
+[node name="Checkers" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_pncib")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 10, 0)
+light_energy = 0.2
+shadow_enabled = true
+distance_fade_shadow = 0.0
+distance_fade_length = 97.15
+omni_range = 30.0
+omni_attenuation = -0.4
+
+[node name="OmniLight3D2" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10, 20, 0)
+light_energy = 0.8
+light_size = 1.0
+shadow_enabled = true
+omni_range = 30.0
+omni_attenuation = -0.362
+
+[node name="OmniLight3D3" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 20, 0)
+light_energy = 0.8
+light_size = 1.0
+shadow_enabled = true
+omni_range = 30.0
+omni_attenuation = -0.362
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.707107, -0.5, 0.5, 0, 0.707107, 0.707107, -0.707107, -0.5, 0.5, 30, 42.5, 30)
+projection = 1
+fov = 32.0
+size = 26.442
+
+[node name="checkers-board-black-white" parent="." instance=ExtResource("1_3bgxw")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.623, 0)
+
+[node name="man-v1-black" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.4, 0.623, -1.2)
+
+[node name="man-v1-black2" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.2, 0.623, 3.6)
+
+[node name="man-v1-black3" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.4, 0.623, -3.6)
+
+[node name="man-v1-black4" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.4, 0.623, -8.4)
+
+[node name="man-v1-black5" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.6, 0.623, -8.4)
+
+[node name="man-v1-black6" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12, 0.0333318, 9)
+
+[node name="man-v1-black7" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.6, 0.623, -3.6)
+
+[node name="man-v1-black8" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0.623, -1.2)
+
+[node name="man-v1-black9" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.4, 1.02401, -1.2)
+
+[node name="man-v1-black10" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12, 0.0333318, 7.2)
+
+[node name="man-v1-black11" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.6, 0.623, 6)
+
+[node name="man-v1-black12" parent="checkers-board-black-white" instance=ExtResource("2_a1i6f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0.623, 3.6)
+
+[node name="man-v1-white" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.623, 6)
+
+[node name="man-v1-white2" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.2, 0.623, 1.2)
+
+[node name="man-v1-white3" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.4, 0.623, 3.6)
+
+[node name="man-v1-white4" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.6, 0.623, 8.4)
+
+[node name="man-v1-white5" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.2, 0.623, 8.4)
+
+[node name="man-v1-white6" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 12, 0.0333318, -5.4)
+
+[node name="man-v1-white7" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.623, -3.6)
+
+[node name="man-v1-white8" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.6, 0.623, -6)
+
+[node name="man-v1-white9" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 12, 0.0333318, -9)
+
+[node name="man-v1-white10" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 12, 0.0333318, -7.2)
+
+[node name="man-v1-white11" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.623, -8.4)
+
+[node name="man-v1-white12" parent="checkers-board-black-white" instance=ExtResource("3_l1ox2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.4, 0.623, -6)

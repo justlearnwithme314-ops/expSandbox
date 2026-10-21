@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cc3vhknxnk4k3"
+path="res://.godot/imported/pillar_thicc.vox-dbab696d148103dc5324b0b8cde49c5c.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/pillar_thicc.vox"
+dest_files=["res://.godot/imported/pillar_thicc.vox-dbab696d148103dc5324b0b8cde49c5c.tscn"]
+
+[params]
+

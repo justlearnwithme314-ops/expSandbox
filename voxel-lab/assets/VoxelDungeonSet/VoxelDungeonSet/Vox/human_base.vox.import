@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b4hecpx6g8jhi"
+path="res://.godot/imported/human_base.vox-f1202b013b9186e1a38838c29a5007cf.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/human_base.vox"
+dest_files=["res://.godot/imported/human_base.vox-f1202b013b9186e1a38838c29a5007cf.tscn"]
+
+[params]
+

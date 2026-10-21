@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://chb3gtdmvkjup"
+path="res://.godot/imported/chest_lock.vox-00ae9c8f1b2e8b3718566dd44befdcda.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/chest_lock.vox"
+dest_files=["res://.godot/imported/chest_lock.vox-00ae9c8f1b2e8b3718566dd44befdcda.tscn"]
+
+[params]
+

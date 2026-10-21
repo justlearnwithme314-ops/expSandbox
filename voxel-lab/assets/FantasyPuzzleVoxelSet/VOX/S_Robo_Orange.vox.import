@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cjwhhvq84u3e4"
+path="res://.godot/imported/S_Robo_Orange.vox-23bc35d68ac78928e6adb5af3ed665b8.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Robo_Orange.vox"
+dest_files=["res://.godot/imported/S_Robo_Orange.vox-23bc35d68ac78928e6adb5af3ed665b8.tscn"]
+
+[params]
+

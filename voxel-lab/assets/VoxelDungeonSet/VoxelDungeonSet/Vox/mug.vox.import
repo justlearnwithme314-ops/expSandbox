@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dpu1nkyu861o4"
+path="res://.godot/imported/mug.vox-dae8b084a1f567b7ab4682e5fe350307.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/mug.vox"
+dest_files=["res://.godot/imported/mug.vox-dae8b084a1f567b7ab4682e5fe350307.tscn"]
+
+[params]
+

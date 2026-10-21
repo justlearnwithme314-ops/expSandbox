@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://c3sfaboyc1j"
+path="res://.godot/imported/hammer.vox-db66ffdd2225f15cff2ff0e055563eca.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/hammer.vox"
+dest_files=["res://.godot/imported/hammer.vox-db66ffdd2225f15cff2ff0e055563eca.tscn"]
+
+[params]
+

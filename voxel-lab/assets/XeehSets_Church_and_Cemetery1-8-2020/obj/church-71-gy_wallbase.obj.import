@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ce6d8r82p4duy"
+path="res://.godot/imported/church-71-gy_wallbase.obj-8e997eb56b00753d02cb9f6b48cdc1ab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/church-71-gy_wallbase.obj-8e997eb56b00753d02cb9f6b48cdc1ab.mesh"]
+
+source_file="res://assets/XeehSets_Church_and_Cemetery1-8-2020/obj/church-71-gy_wallbase.obj"
+dest_files=["res://.godot/imported/church-71-gy_wallbase.obj-8e997eb56b00753d02cb9f6b48cdc1ab.mesh", "res://.godot/imported/church-71-gy_wallbase.obj-8e997eb56b00753d02cb9f6b48cdc1ab.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

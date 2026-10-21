@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bs1yfr33g06ns"
+path="res://.godot/imported/farm-37-root_growth1.obj-a913ffacf1f974f22e9dc4ec25c305cc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/farm-37-root_growth1.obj-a913ffacf1f974f22e9dc4ec25c305cc.mesh"]
+
+source_file="res://assets/Farm/obj/farm-37-root_growth1.obj"
+dest_files=["res://.godot/imported/farm-37-root_growth1.obj-a913ffacf1f974f22e9dc4ec25c305cc.mesh", "res://.godot/imported/farm-37-root_growth1.obj-a913ffacf1f974f22e9dc4ec25c305cc.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

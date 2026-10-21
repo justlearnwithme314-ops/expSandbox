@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bb3r0lmiuv2od"
+path="res://.godot/imported/S_Pylon_GreenPointer.vox-b33e58306451dfbde55ffc066799b8d8.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Pylon_GreenPointer.vox"
+dest_files=["res://.godot/imported/S_Pylon_GreenPointer.vox-b33e58306451dfbde55ffc066799b8d8.tscn"]
+
+[params]
+

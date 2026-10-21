@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b2n5aoevlfbkm"
+path="res://.godot/imported/S_StonePlate.vox-df17bf25d619b277d09997ae9bdf5b5a.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_StonePlate.vox"
+dest_files=["res://.godot/imported/S_StonePlate.vox-df17bf25d619b277d09997ae9bdf5b5a.tscn"]
+
+[params]
+

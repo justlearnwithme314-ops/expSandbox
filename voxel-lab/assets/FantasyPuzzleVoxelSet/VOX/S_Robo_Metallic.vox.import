@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bteojey8wb84t"
+path="res://.godot/imported/S_Robo_Metallic.vox-a49509f070a324871c33b61a521b5907.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Robo_Metallic.vox"
+dest_files=["res://.godot/imported/S_Robo_Metallic.vox-a49509f070a324871c33b61a521b5907.tscn"]
+
+[params]
+

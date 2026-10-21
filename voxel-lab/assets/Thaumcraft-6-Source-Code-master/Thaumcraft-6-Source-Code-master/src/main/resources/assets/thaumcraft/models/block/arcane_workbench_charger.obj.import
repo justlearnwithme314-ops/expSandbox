@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bw371covfhqss"
+path="res://.godot/imported/arcane_workbench_charger.obj-8680a6abd054d56f6f2ec71695b2abea.mesh"
+
+[deps]
+
+files=["res://.godot/imported/arcane_workbench_charger.obj-8680a6abd054d56f6f2ec71695b2abea.mesh"]
+
+source_file="res://minecraf_mos_reference/Thaumcraft-6-Source-Code-master/Thaumcraft-6-Source-Code-master/src/main/resources/assets/thaumcraft/models/block/arcane_workbench_charger.obj"
+dest_files=["res://.godot/imported/arcane_workbench_charger.obj-8680a6abd054d56f6f2ec71695b2abea.mesh", "res://.godot/imported/arcane_workbench_charger.obj-8680a6abd054d56f6f2ec71695b2abea.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

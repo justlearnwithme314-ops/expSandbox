@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://c8a644t6y42qq"
+path="res://.godot/imported/S_StoneFrame.vox-52245216eba83016631144a6321769dd.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_StoneFrame.vox"
+dest_files=["res://.godot/imported/S_StoneFrame.vox-52245216eba83016631144a6321769dd.tscn"]
+
+[params]
+

@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cns2174jvpash"
+path="res://.godot/imported/chess-king-white.obj-3e5eb0384f8c614e9808e876e43b23e0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chess-king-white.obj-3e5eb0384f8c614e9808e876e43b23e0.mesh"]
+
+source_file="res://assets/BoardGames-obj/obj/Pieces/Chess/chess-king-white.obj"
+dest_files=["res://.godot/imported/chess-king-white.obj-3e5eb0384f8c614e9808e876e43b23e0.mesh", "res://.godot/imported/chess-king-white.obj-3e5eb0384f8c614e9808e876e43b23e0.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

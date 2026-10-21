@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bulf6ncmx2qlg"
+path="res://.godot/imported/S_Stairs.vox-8e208b7780605e1b09f0ab8d8d4798dc.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Stairs.vox"
+dest_files=["res://.godot/imported/S_Stairs.vox-8e208b7780605e1b09f0ab8d8d4798dc.tscn"]
+
+[params]
+

@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c6earx0i3q4r5"
+path="res://.godot/imported/tavern-53-pillar_pillar2.obj-3185dfeff6dff891d03550b8884abbe9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tavern-53-pillar_pillar2.obj-3185dfeff6dff891d03550b8884abbe9.mesh"]
+
+source_file="res://assets/XeehSets_Tavern2-8-2020/Tavern OBJ/tavern-53-pillar_pillar2.obj"
+dest_files=["res://.godot/imported/tavern-53-pillar_pillar2.obj-3185dfeff6dff891d03550b8884abbe9.mesh", "res://.godot/imported/tavern-53-pillar_pillar2.obj-3185dfeff6dff891d03550b8884abbe9.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

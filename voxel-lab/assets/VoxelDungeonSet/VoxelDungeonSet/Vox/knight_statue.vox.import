@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bc0tdn00ttam4"
+path="res://.godot/imported/knight_statue.vox-1716b495ac2a60a26e9bd83b26da2167.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/knight_statue.vox"
+dest_files=["res://.godot/imported/knight_statue.vox-1716b495ac2a60a26e9bd83b26da2167.tscn"]
+
+[params]
+

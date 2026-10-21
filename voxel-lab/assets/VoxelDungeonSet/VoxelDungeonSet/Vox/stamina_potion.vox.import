@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://fqoac1dd2nrj"
+path="res://.godot/imported/stamina_potion.vox-c04084c76c607bfbefadea04fd493d28.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/stamina_potion.vox"
+dest_files=["res://.godot/imported/stamina_potion.vox-c04084c76c607bfbefadea04fd493d28.tscn"]
+
+[params]
+

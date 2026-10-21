@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://ckigijrn3gn73"
+path="res://.godot/imported/S_EnergyTube_Blue_Stand.vox-55957a9192a4c81905259089bc28b4d2.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_EnergyTube_Blue_Stand.vox"
+dest_files=["res://.godot/imported/S_EnergyTube_Blue_Stand.vox-55957a9192a4c81905259089bc28b4d2.tscn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://ddd6uhv7cxy0f"
+path="res://.godot/imported/mossy-stairs.vox-cd1aa77080ec007d4e7187b9087cfc9f.tscn"
+
+[deps]
+
+source_file="res://assets/Jublian_Rocky_Pack/Jublian_Rocky_Pack/Stairs/mossy-stairs.vox"
+dest_files=["res://.godot/imported/mossy-stairs.vox-cd1aa77080ec007d4e7187b9087cfc9f.tscn"]
+
+[params]
+

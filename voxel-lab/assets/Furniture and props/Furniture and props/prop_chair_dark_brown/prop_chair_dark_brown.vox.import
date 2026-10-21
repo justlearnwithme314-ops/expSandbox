@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dtr1e7km3ab7b"
+path="res://.godot/imported/prop_chair_dark_brown.vox-00d1e1bf917b5fdf9cb4cebafff2a268.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_chair_dark_brown/prop_chair_dark_brown.vox"
+dest_files=["res://.godot/imported/prop_chair_dark_brown.vox-00d1e1bf917b5fdf9cb4cebafff2a268.tscn"]
+
+[params]
+

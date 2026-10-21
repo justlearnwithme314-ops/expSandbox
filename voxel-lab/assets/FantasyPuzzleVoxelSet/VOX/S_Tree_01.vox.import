@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://binb7rt7sk8ce"
+path="res://.godot/imported/S_Tree_01.vox-5543c4e664c336fcee2bbc6058da94fa.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Tree_01.vox"
+dest_files=["res://.godot/imported/S_Tree_01.vox-5543c4e664c336fcee2bbc6058da94fa.tscn"]
+
+[params]
+

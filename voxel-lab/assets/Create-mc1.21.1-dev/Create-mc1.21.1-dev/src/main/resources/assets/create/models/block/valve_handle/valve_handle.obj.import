@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dxsns5ju26t5q"
+path="res://.godot/imported/valve_handle.obj-d9936a4370fd3ae0e7119cdf6a8a4caf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/valve_handle.obj-d9936a4370fd3ae0e7119cdf6a8a4caf.mesh"]
+
+source_file="res://minecraf_mos_reference/Create-mc1.21.1-dev/Create-mc1.21.1-dev/src/main/resources/assets/create/models/block/valve_handle/valve_handle.obj"
+dest_files=["res://.godot/imported/valve_handle.obj-d9936a4370fd3ae0e7119cdf6a8a4caf.mesh", "res://.godot/imported/valve_handle.obj-d9936a4370fd3ae0e7119cdf6a8a4caf.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

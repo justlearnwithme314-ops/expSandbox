@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dg6r26h3rgolh"
+path="res://.godot/imported/token-v2-purple.obj-888b62f1d9d162f603c1515b3a17953e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/token-v2-purple.obj-888b62f1d9d162f603c1515b3a17953e.mesh"]
+
+source_file="res://assets/BoardGames-obj/obj/Pieces/Token/token-v2-purple.obj"
+dest_files=["res://.godot/imported/token-v2-purple.obj-888b62f1d9d162f603c1515b3a17953e.mesh", "res://.godot/imported/token-v2-purple.obj-888b62f1d9d162f603c1515b3a17953e.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

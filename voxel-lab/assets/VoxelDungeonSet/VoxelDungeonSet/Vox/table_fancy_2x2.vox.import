@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://wpvo5xky1ku5"
+path="res://.godot/imported/table_fancy_2x2.vox-0aee82120313854128448be24989eac0.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/table_fancy_2x2.vox"
+dest_files=["res://.godot/imported/table_fancy_2x2.vox-0aee82120313854128448be24989eac0.tscn"]
+
+[params]
+

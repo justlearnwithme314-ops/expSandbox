@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://urkhq4y2bqru"
+path="res://.godot/imported/window_simple_big.vox-7c2e8d88fd653719d884b7f0824cfc67.tscn"
+
+[deps]
+
+source_file="res://assets/House/House/windows/window_simple_big/window_simple_big.vox"
+dest_files=["res://.godot/imported/window_simple_big.vox-7c2e8d88fd653719d884b7f0824cfc67.tscn"]
+
+[params]
+

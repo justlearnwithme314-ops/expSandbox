@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ditq0wys2hleg"
+path="res://.godot/imported/overworld-38-ocean_3px.obj-ffc549936bd52243c9616226d2d6108c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/overworld-38-ocean_3px.obj-ffc549936bd52243c9616226d2d6108c.mesh"]
+
+source_file="res://assets/Hexatilesv1(1)/Obj/overworld-38-ocean_3px.obj"
+dest_files=["res://.godot/imported/overworld-38-ocean_3px.obj-ffc549936bd52243c9616226d2d6108c.mesh", "res://.godot/imported/overworld-38-ocean_3px.obj-ffc549936bd52243c9616226d2d6108c.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

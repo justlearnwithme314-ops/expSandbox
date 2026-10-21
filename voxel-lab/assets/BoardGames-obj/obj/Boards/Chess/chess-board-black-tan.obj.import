@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://02w2dycdx83v"
+path="res://.godot/imported/chess-board-black-tan.obj-f2ea990da421b280a47420720844bfde.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chess-board-black-tan.obj-f2ea990da421b280a47420720844bfde.mesh"]
+
+source_file="res://assets/BoardGames-obj/obj/Boards/Chess/chess-board-black-tan.obj"
+dest_files=["res://.godot/imported/chess-board-black-tan.obj-f2ea990da421b280a47420720844bfde.mesh", "res://.godot/imported/chess-board-black-tan.obj-f2ea990da421b280a47420720844bfde.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bwb4wtgwrnxye"
+path="res://.godot/imported/prop_pan.vox-8bf3a90e47930504766ff768c3e5b339.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_pan/prop_pan.vox"
+dest_files=["res://.godot/imported/prop_pan.vox-8bf3a90e47930504766ff768c3e5b339.tscn"]
+
+[params]
+

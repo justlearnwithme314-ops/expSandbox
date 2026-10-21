@@ -1,0 +1,98 @@
+[
+  {
+    "name": "binary-greedy-meshing",
+    "url": "https://github.com/cgerikj/binary-greedy-meshing.git",
+    "revision": "af8c688ed3af63e98f9631c05774f30e1350a021",
+    "downloaded": "2026-10-20",
+    "shallow": true,
+    "clean": true,
+    "submodules": [
+      "-faba4443efcd85ad55bf5dd85c8ee458d427d6aa libraries/FastNoise",
+      "-d973acc123826666ecc9e6fd475682e3d84c54a6 libraries/glfw",
+      "-13724cfae64a8b5313d1cabc9a963d2c9dbeda12 libraries/glm"
+    ]
+  },
+  {
+    "name": "fastgltf",
+    "url": "https://github.com/spnda/fastgltf.git",
+    "revision": "cd30d761672f222265d13214b32042ca3621c919",
+    "downloaded": "2026-10-20",
+    "shallow": true,
+    "clean": true,
+    "submodules": []
+  },
+  {
+    "name": "FastNoiseLite",
+    "url": "https://github.com/Auburn/FastNoiseLite.git",
+    "revision": "785f37a9ad76e283586a379675085f2063ae03f7",
+    "downloaded": "2026-10-20",
+    "shallow": true,
+    "clean": true,
+    "submodules": []
+  },
+  {
+    "name": "godot_voxel",
+    "url": "https://github.com/Zylann/godot_voxel.git",
+    "revision": "045ff9326a32fd10ac6fdac6357b5a098aaf2093",
+    "downloaded": "2026-10-20",
+    "shallow": true,
+    "clean": true,
+    "submodules": []
+  },
+  {
+    "name": "JoltPhysics",
+    "url": "https://github.com/jrouwe/JoltPhysics.git",
+    "revision": "01adafba08bddb650046a822983c52aa734fcadb",
+    "downloaded": "2026-10-20",
+    "shallow": true,
+    "clean": true,
+    "submodules": []
+  },
+  {
+    "name": "SQLiteCpp",
+    "url": "https://github.com/SRombauts/SQLiteCpp.git",
+    "revision": "8ce502e03cfcac182d07eab452a75a0da2b222c4",
+    "downloaded": "2026-10-20",
+    "shallow": true,
+    "clean": true,
+    "submodules": [
+      "-063de7e9578f82b369302001269680b4b1553359 googletest"
+    ]
+  },
+  {
+    "name": "Transvoxel",
+    "url": "https://github.com/EricLengyel/Transvoxel.git",
+    "revision": "51a494f03c5b024cd153b596bcc7152eb3cc93a6",
+    "downloaded": "2026-10-20",
+    "shallow": true,
+    "clean": true,
+    "submodules": []
+  },
+  {
+    "name": "voxelgame",
+    "url": "https://github.com/Zylann/voxelgame.git",
+    "revision": "4cf747a8456375e527c8c976c50fb24446f9d18f",
+    "downloaded": "2026-10-20",
+    "shallow": true,
+    "clean": true,
+    "submodules": []
+  },
+  {
+    "name": "raylib",
+    "url": "https://github.com/raysan5/raylib.git",
+    "revision": "a40a167804f78f7c84bfe9dfb31b318e71e84d91",
+    "downloaded": "2026-10-20",
+    "shallow": true,
+    "clean": true,
+    "submodules": []
+  },
+  {
+    "name": "json",
+    "url": "https://github.com/nlohmann/json.git",
+    "revision": "4da932f518feb262d29b08aedec10ec0c45fa501",
+    "downloaded": "2026-10-20",
+    "shallow": true,
+    "clean": true,
+    "submodules": []
+  }
+]

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dbpiiqi27jykh"
+path="res://.godot/imported/roof_raised.vox-5aafd8d9847be34aa0f0683ef8d722ac.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/roof_raised.vox"
+dest_files=["res://.godot/imported/roof_raised.vox-5aafd8d9847be34aa0f0683ef8d722ac.tscn"]
+
+[params]
+

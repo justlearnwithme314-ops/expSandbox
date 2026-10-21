@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b1hmwjchitoqg"
+path="res://.godot/imported/cross_d1_zo.obj-0d353e06db696730ecfc23d0dd1ba696.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cross_d1_zo.obj-0d353e06db696730ecfc23d0dd1ba696.mesh"]
+
+source_file="res://minecraf_mos_reference/Create-mc1.21.1-dev/Create-mc1.21.1-dev/src/main/resources/assets/create/models/block/track/cross_d1_zo.obj"
+dest_files=["res://.godot/imported/cross_d1_zo.obj-0d353e06db696730ecfc23d0dd1ba696.mesh", "res://.godot/imported/cross_d1_zo.obj-0d353e06db696730ecfc23d0dd1ba696.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

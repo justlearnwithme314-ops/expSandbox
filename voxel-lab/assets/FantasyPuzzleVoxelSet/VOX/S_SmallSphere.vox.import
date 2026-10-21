@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bae1v3duqeth6"
+path="res://.godot/imported/S_SmallSphere.vox-84788ad5df5e7b6be8a29e910016d24c.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_SmallSphere.vox"
+dest_files=["res://.godot/imported/S_SmallSphere.vox-84788ad5df5e7b6be8a29e910016d24c.tscn"]
+
+[params]
+

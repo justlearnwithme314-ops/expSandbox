@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bbb3ogkcqg8xl"
+path="res://.godot/imported/VoxelFruits&VegetablesProject.vox-29553c4dc5b7dbaa498c9fb40ea1e5ff.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelFruitsAndVegetables/VoxelFruitsAndVegetables/VoxelFruits&VegetablesProject.vox"
+dest_files=["res://.godot/imported/VoxelFruits&VegetablesProject.vox-29553c4dc5b7dbaa498c9fb40ea1e5ff.tscn"]
+
+[params]
+

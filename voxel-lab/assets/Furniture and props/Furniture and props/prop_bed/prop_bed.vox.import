@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bhbpv4ru0pa2c"
+path="res://.godot/imported/prop_bed.vox-59f1bf752d4c2d17f46651949fe38352.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_bed/prop_bed.vox"
+dest_files=["res://.godot/imported/prop_bed.vox-59f1bf752d4c2d17f46651949fe38352.tscn"]
+
+[params]
+

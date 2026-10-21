@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dt3q7bc3egjpr"
+path="res://.godot/imported/lantern.vox-4e4b5cde0578b0c902bbd122c310c2f4.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/lantern.vox"
+dest_files=["res://.godot/imported/lantern.vox-4e4b5cde0578b0c902bbd122c310c2f4.tscn"]
+
+[params]
+

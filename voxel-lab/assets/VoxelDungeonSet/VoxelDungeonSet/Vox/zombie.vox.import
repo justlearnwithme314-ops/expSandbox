@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bdve55v44cdt0"
+path="res://.godot/imported/zombie.vox-d22a55faa66ace6a17f37ae01db2c9cd.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/zombie.vox"
+dest_files=["res://.godot/imported/zombie.vox-d22a55faa66ace6a17f37ae01db2c9cd.tscn"]
+
+[params]
+

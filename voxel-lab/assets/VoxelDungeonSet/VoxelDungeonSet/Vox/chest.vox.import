@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://chrcv1h4h24yx"
+path="res://.godot/imported/chest.vox-322d4877e7793cd81f5d405b9e7788db.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/chest.vox"
+dest_files=["res://.godot/imported/chest.vox-322d4877e7793cd81f5d405b9e7788db.tscn"]
+
+[params]
+

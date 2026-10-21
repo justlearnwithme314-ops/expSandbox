@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://lmf8mvikd0nl"
+path="res://.godot/imported/S_Tablet.vox-bc6cb15f86585a3c2be1d5c880299676.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Tablet.vox"
+dest_files=["res://.godot/imported/S_Tablet.vox-bc6cb15f86585a3c2be1d5c880299676.tscn"]
+
+[params]
+

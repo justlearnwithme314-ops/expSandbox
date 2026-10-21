@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://8ytsicxvhiov"
+path="res://.godot/imported/S_Stairs_Corner_Outer.vox-e82b516e04cf08b33edfcb920c041ff6.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Stairs_Corner_Outer.vox"
+dest_files=["res://.godot/imported/S_Stairs_Corner_Outer.vox-e82b516e04cf08b33edfcb920c041ff6.tscn"]
+
+[params]
+

@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://3r45n1iybrnd"
+path="res://.godot/imported/coin_square_blue.obj-0d34452e638cb806551f3746d40eb0b7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/coin_square_blue.obj-0d34452e638cb806551f3746d40eb0b7.mesh"]
+
+source_file="res://assets/Simple Voxel Art Coins and More/Coins/Square/coin_square_blue.obj"
+dest_files=["res://.godot/imported/coin_square_blue.obj-0d34452e638cb806551f3746d40eb0b7.mesh", "res://.godot/imported/coin_square_blue.obj-0d34452e638cb806551f3746d40eb0b7.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

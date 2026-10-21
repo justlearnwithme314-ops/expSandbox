@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://xcdrrxx04n2r"
+path="res://.godot/imported/S_PylonYellow.vox-1e06226cd896dd5d82ebfaa96c86d970.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_PylonYellow.vox"
+dest_files=["res://.godot/imported/S_PylonYellow.vox-1e06226cd896dd5d82ebfaa96c86d970.tscn"]
+
+[params]
+

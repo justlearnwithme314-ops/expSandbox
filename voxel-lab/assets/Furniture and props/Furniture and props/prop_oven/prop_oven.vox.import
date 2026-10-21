@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://ch4v4t21cd28l"
+path="res://.godot/imported/prop_oven.vox-4960d2a138aba9b527378c4988a4a956.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_oven/prop_oven.vox"
+dest_files=["res://.godot/imported/prop_oven.vox-4960d2a138aba9b527378c4988a4a956.tscn"]
+
+[params]
+

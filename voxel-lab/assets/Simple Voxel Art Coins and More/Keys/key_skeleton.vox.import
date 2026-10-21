@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dicvpctofnlmq"
+path="res://.godot/imported/key_skeleton.vox-754166692cc0dd0adadac339bc5baa4a.tscn"
+
+[deps]
+
+source_file="res://assets/Simple Voxel Art Coins and More/Keys/key_skeleton.vox"
+dest_files=["res://.godot/imported/key_skeleton.vox-754166692cc0dd0adadac339bc5baa4a.tscn"]
+
+[params]
+

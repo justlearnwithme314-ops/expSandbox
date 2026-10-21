@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccx6i488wtb8l"
+path="res://.godot/imported/overworld-26-grassland_hill.obj-da51183a71b6c44628a6d979d79cb07a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/overworld-26-grassland_hill.obj-da51183a71b6c44628a6d979d79cb07a.mesh"]
+
+source_file="res://assets/Hexatilesv1/Obj/overworld-26-grassland_hill.obj"
+dest_files=["res://.godot/imported/overworld-26-grassland_hill.obj-da51183a71b6c44628a6d979d79cb07a.mesh", "res://.godot/imported/overworld-26-grassland_hill.obj-da51183a71b6c44628a6d979d79cb07a.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

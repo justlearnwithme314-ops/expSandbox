@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bev20tue0617q"
+path="res://.godot/imported/S_Statue_01.vox-0d74f64fc798bd6ef913ce8aa509dee7.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Statue_01.vox"
+dest_files=["res://.godot/imported/S_Statue_01.vox-0d74f64fc798bd6ef913ce8aa509dee7.tscn"]
+
+[params]
+

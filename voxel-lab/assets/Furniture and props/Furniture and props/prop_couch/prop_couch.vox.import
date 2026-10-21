@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b204oddoqtlif"
+path="res://.godot/imported/prop_couch.vox-da0d7ed4fac4838f3e68b45db2309ef8.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_couch/prop_couch.vox"
+dest_files=["res://.godot/imported/prop_couch.vox-da0d7ed4fac4838f3e68b45db2309ef8.tscn"]
+
+[params]
+

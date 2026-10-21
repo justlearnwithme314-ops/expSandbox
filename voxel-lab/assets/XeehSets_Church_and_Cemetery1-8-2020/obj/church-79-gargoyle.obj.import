@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dwlvjgwwk34k5"
+path="res://.godot/imported/church-79-gargoyle.obj-39f217521d845e956c8aaccebb5437ad.mesh"
+
+[deps]
+
+files=["res://.godot/imported/church-79-gargoyle.obj-39f217521d845e956c8aaccebb5437ad.mesh"]
+
+source_file="res://assets/XeehSets_Church_and_Cemetery1-8-2020/obj/church-79-gargoyle.obj"
+dest_files=["res://.godot/imported/church-79-gargoyle.obj-39f217521d845e956c8aaccebb5437ad.mesh", "res://.godot/imported/church-79-gargoyle.obj-39f217521d845e956c8aaccebb5437ad.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

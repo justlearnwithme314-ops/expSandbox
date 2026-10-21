@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c338263nqs1q2"
+path="res://.godot/imported/bogey_drive.obj-20f5a5fac2f01479c9434748c9935143.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bogey_drive.obj-20f5a5fac2f01479c9434748c9935143.mesh"]
+
+source_file="res://minecraf_mos_reference/Create-mc1.21.1-dev/Create-mc1.21.1-dev/src/main/resources/assets/create/models/block/track/bogey/bogey_drive.obj"
+dest_files=["res://.godot/imported/bogey_drive.obj-20f5a5fac2f01479c9434748c9935143.mesh", "res://.godot/imported/bogey_drive.obj-20f5a5fac2f01479c9434748c9935143.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

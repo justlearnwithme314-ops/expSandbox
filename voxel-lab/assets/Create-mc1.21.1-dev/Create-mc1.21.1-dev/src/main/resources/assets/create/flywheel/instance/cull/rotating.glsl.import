@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://j6ookjqs0rg1"
+path="res://.godot/imported/rotating.glsl-3a1bf7467010548a91fc24fb1896e15f.res"
+
+[deps]
+
+source_file="res://minecraf_mos_reference/Create-mc1.21.1-dev/Create-mc1.21.1-dev/src/main/resources/assets/create/flywheel/instance/cull/rotating.glsl"
+dest_files=["res://.godot/imported/rotating.glsl-3a1bf7467010548a91fc24fb1896e15f.res"]
+
+[params]
+

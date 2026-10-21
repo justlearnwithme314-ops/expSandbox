@@ -1,0 +1,662 @@
+{
+  "source": "C:\\Users\\Admin\\Downloads\\powered-by-go-vw-modular-steve-tools\\powered-by-go-vw-modular",
+  "modules": [
+    {
+      "folder": "_template",
+      "id": "example:template",
+      "name": "Example Template",
+      "version": "1.0.0",
+      "dependencies": [
+        "core:base"
+      ],
+      "scripts": 1,
+      "lines": 77,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "adventure_interactions",
+      "id": "adventure:interactions",
+      "name": "Dungeon Traps and Grabbing",
+      "version": "1.0.0",
+      "dependencies": [
+        "world:effects",
+        "combat:projectiles",
+        "survival:basics",
+        "frontier:survival",
+        "survival:crafting_progression"
+      ],
+      "scripts": 3,
+      "lines": 832,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "asset_catalog",
+      "id": "sandbox:asset_catalog",
+      "name": "Minecraft Style Asset Catalog",
+      "version": "1.0.0",
+      "dependencies": [
+        "building:catalog",
+        "creatures:first",
+        "world:terrain_fluids",
+        "industry:devices",
+        "adventure:interactions"
+      ],
+      "scripts": 2,
+      "lines": 136,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "basic_survival",
+      "id": "survival:basics",
+      "name": "Core Survival Content",
+      "version": "1.0.0",
+      "dependencies": [
+        "crafting:shaped",
+        "building:transparent_blocks",
+        "survival:player_survival",
+        "world:effects",
+        "combat:projectiles"
+      ],
+      "scripts": 5,
+      "lines": 718,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "block_feedback",
+      "id": "core:block_feedback",
+      "name": "Block Interaction Feedback",
+      "version": "1.0.0",
+      "dependencies": [
+        "core:base"
+      ],
+      "scripts": 2,
+      "lines": 93,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "block_mechanisms",
+      "id": "building:mechanisms",
+      "name": "Interactive Blocks and Redstone",
+      "version": "1.0.0",
+      "dependencies": [
+        "building:shapes",
+        "world:effects",
+        "survival:crafting_progression"
+      ],
+      "scripts": 4,
+      "lines": 613,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "body_cosmetics",
+      "id": "appearance:body_cosmetics",
+      "name": "Optional Body Cosmetics",
+      "version": "1.1.0",
+      "dependencies": [
+        "appearance:skins"
+      ],
+      "scripts": 7,
+      "lines": 605,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "building_catalog",
+      "id": "building:catalog",
+      "name": "Decorative Building Blocks",
+      "version": "1.0.0",
+      "dependencies": [
+        "core:base",
+        "crafting:shaped"
+      ],
+      "scripts": 1,
+      "lines": 6,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "building_shapes",
+      "id": "building:shapes",
+      "name": "Building Shapes and Creature Ecology",
+      "version": "1.0.0",
+      "dependencies": [
+        "sandbox:asset_catalog",
+        "survival:basics",
+        "creatures:variants"
+      ],
+      "scripts": 4,
+      "lines": 381,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "buried_dungeons",
+      "id": "world:buried_dungeons",
+      "name": "Buried Sanctums",
+      "version": "1.0.0",
+      "dependencies": [
+        "survival:expansion",
+        "creatures:loot_expansion",
+        "survival:workshop",
+        "world:ecology",
+        "adventure:interactions"
+      ],
+      "scripts": 4,
+      "lines": 821,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "crafting_progression",
+      "id": "survival:crafting_progression",
+      "name": "Crafting Progression and Stations",
+      "version": "1.0.0",
+      "dependencies": [
+        "core:base",
+        "frontier:survival"
+      ],
+      "scripts": 3,
+      "lines": 642,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "creative_catalog",
+      "id": "sandbox:creative_catalog",
+      "name": "Creative Catalog",
+      "version": "1.0.0",
+      "dependencies": [
+        "core:base",
+        "entities:framework"
+      ],
+      "scripts": 3,
+      "lines": 303,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "creature_variants",
+      "id": "creatures:variants",
+      "name": "Creature Variants",
+      "version": "1.0.0",
+      "dependencies": [
+        "creatures:first",
+        "survival:basics",
+        "combat:projectiles"
+      ],
+      "scripts": 7,
+      "lines": 452,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "damage_feedback",
+      "id": "presentation:damage_feedback",
+      "name": "Damage Feedback",
+      "version": "1.0.0",
+      "dependencies": [
+        "core:base"
+      ],
+      "scripts": 2,
+      "lines": 74,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "debug_console",
+      "id": "tools:debug_console",
+      "name": "Testing Console",
+      "version": "1.0.0",
+      "dependencies": [
+        "creatures:first"
+      ],
+      "scripts": 3,
+      "lines": 230,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "distant_landscape",
+      "id": "render:distant_landscape",
+      "name": "Distant terrain (optional prototype)",
+      "version": "0.1.0",
+      "dependencies": [
+        "world:landforms",
+        "world:ecology",
+        "entities:framework",
+        "core:tree_props",
+        "world:expansion"
+      ],
+      "scripts": 30,
+      "lines": 3398,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "energy_framework",
+      "id": "industry:energy",
+      "name": "Energy Framework",
+      "version": "1.0.0",
+      "dependencies": [
+        "industry:machines",
+        "survival:crafting_progression"
+      ],
+      "scripts": 2,
+      "lines": 103,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "entity_framework",
+      "id": "entities:framework",
+      "name": "Entity Framework",
+      "version": "1.0.0",
+      "dependencies": [
+        "survival:player_survival"
+      ],
+      "scripts": 5,
+      "lines": 2060,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "equipment_condition",
+      "id": "survival:equipment_condition",
+      "name": "Individual Equipment Condition",
+      "version": "1.0.0",
+      "dependencies": [
+        "survival:crafting_progression"
+      ],
+      "scripts": 2,
+      "lines": 49,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "first_creatures",
+      "id": "creatures:first",
+      "name": "Pigs and Skeletons",
+      "version": "1.0.0",
+      "dependencies": [
+        "entities:framework",
+        "combat:projectiles"
+      ],
+      "scripts": 6,
+      "lines": 420,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "frontier_survival",
+      "id": "frontier:survival",
+      "name": "Frontier Survival Expansion",
+      "version": "1.0.0",
+      "dependencies": [
+        "core:base"
+      ],
+      "scripts": 2,
+      "lines": 1119,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "galaxy_characters",
+      "id": "galaxy:characters",
+      "name": "Galaxy Races",
+      "version": "0.1.0",
+      "dependencies": [
+        "entities:framework",
+        "survival:basics",
+        "world:terrain_fluids",
+        "core:player_actions",
+        "galaxy:content"
+      ],
+      "scripts": 6,
+      "lines": 1022,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "galaxy_content",
+      "id": "galaxy:content",
+      "name": "Galaxy Materials and Liquids",
+      "version": "0.1.0",
+      "dependencies": [
+        "world:nether_fire",
+        "sandbox:asset_catalog",
+        "survival:basics",
+        "industry:devices"
+      ],
+      "scripts": 6,
+      "lines": 464,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "gameplay_expansion",
+      "id": "survival:expansion",
+      "name": "Survival and Galaxy Adventures",
+      "version": "0.1.0",
+      "dependencies": [
+        "world:ecology",
+        "galaxy:characters",
+        "industry:devices",
+        "building:mechanisms"
+      ],
+      "scripts": 20,
+      "lines": 2331,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "industry_devices",
+      "id": "industry:devices",
+      "name": "Industrial Devices",
+      "version": "1.0.0",
+      "dependencies": [
+        "industry:materials",
+        "industry:machines",
+        "crafting:shaped",
+        "industry:energy",
+        "entities:framework",
+        "survival:basics",
+        "world:effects"
+      ],
+      "scripts": 2,
+      "lines": 155,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "industry_materials",
+      "id": "industry:materials",
+      "name": "Industrial Materials",
+      "version": "1.0.0",
+      "dependencies": [
+        "frontier:survival",
+        "crafting:shaped"
+      ],
+      "scripts": 1,
+      "lines": 6,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "loot_expansion",
+      "id": "creatures:loot_expansion",
+      "name": "Equipment and Adventure Loot",
+      "version": "1.0.0",
+      "dependencies": [
+        "galaxy:characters",
+        "creatures:variants",
+        "building:shapes"
+      ],
+      "scripts": 2,
+      "lines": 205,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "luanti_nodes",
+      "id": "world:node_behaviors",
+      "name": "Node behaviors \u2014 timers, metadata & gravity",
+      "version": "0.1.0",
+      "dependencies": [
+        "entities:framework",
+        "world:effects",
+        "world:ecology",
+        "building:mechanisms",
+        "crafting:shaped"
+      ],
+      "scripts": 5,
+      "lines": 414,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "machines",
+      "id": "industry:machines",
+      "name": "Industrial Machines",
+      "version": "1.0.0",
+      "dependencies": [
+        "survival:crafting_progression",
+        "crafting:shaped",
+        "entities:framework",
+        "combat:projectiles"
+      ],
+      "scripts": 5,
+      "lines": 800,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "micro_building",
+      "id": "building:pieces",
+      "name": "Decoration Builder",
+      "version": "2.0.0",
+      "dependencies": [
+        "world:effects",
+        "building:shapes"
+      ],
+      "scripts": 3,
+      "lines": 704,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "naturalist",
+      "id": "wildlife:naturalist",
+      "name": "Naturalist Wildlife \u2014 Godot adaptation",
+      "version": "0.1.0",
+      "dependencies": [
+        "entities:framework",
+        "creatures:first",
+        "crafting:shaped",
+        "world:terrain_fluids",
+        "sandbox:asset_catalog",
+        "survival:expansion"
+      ],
+      "scripts": 6,
+      "lines": 1014,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "nether_fire",
+      "id": "world:nether_fire",
+      "name": "Fire and Basic Nether",
+      "version": "1.0.0",
+      "dependencies": [
+        "sandbox:asset_catalog",
+        "world:terrain_fluids",
+        "entities:framework"
+      ],
+      "scripts": 8,
+      "lines": 1038,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "player_actions",
+      "id": "core:player_actions",
+      "name": "Player Actions",
+      "version": "1.0.0",
+      "dependencies": [
+        "core:base"
+      ],
+      "scripts": 3,
+      "lines": 369,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "player_skins",
+      "id": "appearance:skins",
+      "name": "Minecraft Player Skins",
+      "version": "1.0.0",
+      "dependencies": [
+        "creatures:first"
+      ],
+      "scripts": 5,
+      "lines": 666,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "player_survival",
+      "id": "survival:player_survival",
+      "name": "Player Survival and Combat",
+      "version": "1.0.0",
+      "dependencies": [
+        "survival:equipment_condition",
+        "core:player_actions"
+      ],
+      "scripts": 4,
+      "lines": 514,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "projectiles",
+      "id": "combat:projectiles",
+      "name": "Shared Projectiles",
+      "version": "1.0.0",
+      "dependencies": [
+        "entities:framework"
+      ],
+      "scripts": 2,
+      "lines": 388,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "sandbox_commands",
+      "id": "tools:sandbox_commands",
+      "name": "Builder Commands and Command Blocks",
+      "version": "1.0.0",
+      "dependencies": [
+        "tools:debug_console",
+        "sandbox:asset_catalog",
+        "building:mechanisms",
+        "survival:expansion"
+      ],
+      "scripts": 4,
+      "lines": 380,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "shaped_crafting",
+      "id": "crafting:shaped",
+      "name": "Expandable Crafting Grids",
+      "version": "1.0.0",
+      "dependencies": [
+        "creatures:first"
+      ],
+      "scripts": 2,
+      "lines": 234,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "terrain_fluids",
+      "id": "world:terrain_fluids",
+      "name": "Active Terrain Water",
+      "version": "1.0.0",
+      "dependencies": [
+        "world:effects",
+        "survival:basics"
+      ],
+      "scripts": 4,
+      "lines": 469,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "transparent_blocks",
+      "id": "building:transparent_blocks",
+      "name": "Transparent Building Blocks",
+      "version": "1.0.0",
+      "dependencies": [
+        "survival:crafting_progression"
+      ],
+      "scripts": 1,
+      "lines": 16,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "tree_props",
+      "id": "core:tree_props",
+      "name": "Voxel Block Trees",
+      "version": "2.0.0",
+      "dependencies": [
+        "core:base"
+      ],
+      "scripts": 5,
+      "lines": 772,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "user_menu",
+      "id": "ui:user_menu",
+      "name": "User Settings and Game Menu",
+      "version": "0.1.0",
+      "dependencies": [
+        "core:base",
+        "appearance:skins"
+      ],
+      "scripts": 3,
+      "lines": 688,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "visual_unification",
+      "id": "visual:unification",
+      "name": "Cohesive Chaos Visual Grade",
+      "version": "0.1.0",
+      "dependencies": [
+        "core:base"
+      ],
+      "scripts": 2,
+      "lines": 83,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "workshop",
+      "id": "survival:workshop",
+      "name": "Skilled Tools and Pattern Building",
+      "version": "1.0.0",
+      "dependencies": [
+        "survival:expansion",
+        "galaxy:characters",
+        "crafting:shaped"
+      ],
+      "scripts": 7,
+      "lines": 493,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "world_ecology",
+      "id": "world:ecology",
+      "name": "Wild Biomes and Seasonal Ecology",
+      "version": "1.0.0",
+      "dependencies": [
+        "world:landforms",
+        "world:terrain_fluids",
+        "building:mechanisms",
+        "creatures:variants"
+      ],
+      "scripts": 8,
+      "lines": 1027,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "world_effects",
+      "id": "world:effects",
+      "name": "Shared World Effects",
+      "version": "1.0.0",
+      "dependencies": [
+        "entities:framework"
+      ],
+      "scripts": 6,
+      "lines": 926,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "world_expansion",
+      "id": "world:expansion",
+      "name": "River Shores, Jungle and Basic End",
+      "version": "1.0.0",
+      "dependencies": [
+        "world:nether_fire",
+        "core:tree_props",
+        "building:shapes",
+        "frontier:survival"
+      ],
+      "scripts": 6,
+      "lines": 517,
+      "port_status": "not assessed"
+    },
+    {
+      "folder": "world_landforms",
+      "id": "world:landforms",
+      "name": "Living Forests and Wild Landscapes",
+      "version": "1.0.0",
+      "dependencies": [
+        "world:expansion",
+        "entities:framework",
+        "world:effects"
+      ],
+      "scripts": 4,
+      "lines": 385,
+      "port_status": "not assessed"
+    }
+  ]
+}

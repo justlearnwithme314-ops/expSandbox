@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cbfibhmdoa8aj"
+path="res://.godot/imported/S_Fountain_01.vox-82847dd254b9e8177341bb28cb062217.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Fountain_01.vox"
+dest_files=["res://.godot/imported/S_Fountain_01.vox-82847dd254b9e8177341bb28cb062217.tscn"]
+
+[params]
+

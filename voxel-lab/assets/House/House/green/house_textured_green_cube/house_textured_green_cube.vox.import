@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bu1bg4mhxgh1n"
+path="res://.godot/imported/house_textured_green_cube.vox-6d093a72c53b1f32614a5cfaa969bc62.tscn"
+
+[deps]
+
+source_file="res://assets/House/House/green/house_textured_green_cube/house_textured_green_cube.vox"
+dest_files=["res://.godot/imported/house_textured_green_cube.vox-6d093a72c53b1f32614a5cfaa969bc62.tscn"]
+
+[params]
+

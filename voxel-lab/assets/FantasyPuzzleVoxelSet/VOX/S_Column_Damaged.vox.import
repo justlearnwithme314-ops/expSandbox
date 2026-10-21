@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://ctbt5ur36ys84"
+path="res://.godot/imported/S_Column_Damaged.vox-3f33598c6836d366133c66e1bdc21001.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Column_Damaged.vox"
+dest_files=["res://.godot/imported/S_Column_Damaged.vox-3f33598c6836d366133c66e1bdc21001.tscn"]
+
+[params]
+

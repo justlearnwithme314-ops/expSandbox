@@ -1,0 +1,90 @@
+[gd_scene load_steps=15 format=3 uid="uid://buhr7sq5qdydb"]
+
+[ext_resource type="PackedScene" uid="uid://bgcda7c3ar5sw" path="res://assets/cards/spades/card-spades-tan-black-10.gltf" id="1_pf7eb"]
+[ext_resource type="PackedScene" uid="uid://b6kd4mqcknq3y" path="res://assets/cards/spades/card-spades-tan-black-a.gltf" id="2_l8swd"]
+[ext_resource type="PackedScene" uid="uid://cgr4nu0afimve" path="res://assets/cards/spades/card-spades-tan-black-q.gltf" id="3_ki6qo"]
+[ext_resource type="PackedScene" uid="uid://qgs5je7j2v3s" path="res://assets/cards/hearths/card-hearths-tan-black-4.gltf" id="4_t13wl"]
+[ext_resource type="PackedScene" uid="uid://bvpsh11p4tyi0" path="res://assets/cards/diamonds/card-diamonds-tan-black-4.gltf" id="5_ja1is"]
+[ext_resource type="PackedScene" uid="uid://b0pg4tgd1wt4h" path="res://assets/cards/spades/card-spades-tan-black-j.gltf" id="6_qqjtl"]
+[ext_resource type="PackedScene" uid="uid://v526hkyrlm7o" path="res://assets/cards/spades/card-spades-tan-black-k.gltf" id="7_qrsb7"]
+[ext_resource type="PackedScene" uid="uid://d1j62m7dp7rsb" path="res://assets/cards/clubs/card-clubs-tan-black-4.gltf" id="8_0coty"]
+[ext_resource type="PackedScene" uid="uid://ckqesy4icl2ix" path="res://assets/cards/clubs/card-clubs-tan-black-a.gltf" id="9_3ndrk"]
+[ext_resource type="PackedScene" uid="uid://d1hyramgsaf1r" path="res://assets/cards/hearths/card-hearths-tan-black-a.gltf" id="10_7u8gg"]
+[ext_resource type="PackedScene" uid="uid://d05h6ggdhtt3x" path="res://assets/cards/diamonds/card-diamonds-tan-black-a.gltf" id="11_7plye"]
+[ext_resource type="PackedScene" uid="uid://qv0mmn633nbf" path="res://assets/cards/diamonds/card-diamonds-tan-black-q.gltf" id="12_eng1b"]
+[ext_resource type="PackedScene" uid="uid://d5y1bhddw16s" path="res://assets/cards/diamonds/card-diamonds-tan-black-10.gltf" id="13_hbcsv"]
+
+[sub_resource type="Environment" id="Environment_w6wpv"]
+glow_enabled = true
+glow_strength = 0.8
+adjustment_brightness = 2.0
+adjustment_contrast = 1.13
+adjustment_saturation = 3.28
+
+[node name="Poker" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_w6wpv")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 10, 0)
+light_energy = 0.6
+shadow_enabled = true
+distance_fade_shadow = 0.0
+distance_fade_length = 97.15
+omni_range = 30.0
+omni_attenuation = -0.4
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.906308, -0.344488, 0.244815, 0, 0.579281, 0.815128, -0.422618, -0.738757, 0.525007, 14.2, 46.8, 30)
+projection = 1
+fov = 32.0
+size = 26.442
+
+[node name="Board" type="Node3D" parent="."]
+
+[node name="card-spades-tan-black-10" parent="Board" instance=ExtResource("1_pf7eb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.7, 0, 0)
+
+[node name="card-spades-tan-black-a" parent="Board" instance=ExtResource("2_l8swd")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.4, 0, 0)
+
+[node name="card-spades-tan-black-q" parent="Board" instance=ExtResource("3_ki6qo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.7, 0, 0)
+
+[node name="card-hearths-tan-black-4" parent="Board" instance=ExtResource("4_t13wl")]
+
+[node name="card-diamonds-tan-black-4" parent="Board" instance=ExtResource("5_ja1is")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.4, 0, 0)
+
+[node name="Player1" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 8.1)
+
+[node name="card-spades-tan-black-j" parent="Player1" instance=ExtResource("6_qqjtl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.7, 0, 0)
+
+[node name="card-spades-tan-black-k" parent="Player1" instance=ExtResource("7_qrsb7")]
+
+[node name="Player2" type="Node3D" parent="."]
+transform = Transform3D(1.19249e-08, 8.74228e-08, 1, 0, -1, 8.74228e-08, 1, -1.04251e-15, -1.19249e-08, -16.2, 0, 0)
+
+[node name="card-clubs-tan-black-4" parent="Player2" instance=ExtResource("8_0coty")]
+
+[node name="card-clubs-tan-black-a" parent="Player2" instance=ExtResource("9_3ndrk")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.7, 0, 0)
+
+[node name="Player3" type="Node3D" parent="."]
+transform = Transform3D(-1, 7.64274e-15, 8.74228e-08, 0, -1, 8.74228e-08, 8.74228e-08, 8.74228e-08, 1, 0, 0, -8.1)
+
+[node name="card-hearths-tan-black-a" parent="Player3" instance=ExtResource("10_7u8gg")]
+
+[node name="card-diamonds-tan-black-a" parent="Player3" instance=ExtResource("11_7plye")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.7, 0, 0)
+
+[node name="Player4" type="Node3D" parent="."]
+transform = Transform3D(-4.37114e-08, -8.74228e-08, -1, 0, -1, 8.74228e-08, -1, 3.82137e-15, 4.37114e-08, 16.2, 0, 0)
+
+[node name="card-diamonds-tan-black-q" parent="Player4" instance=ExtResource("12_eng1b")]
+
+[node name="card-diamonds-tan-black-10" parent="Player4" instance=ExtResource("13_hbcsv")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.7, 0, 0)

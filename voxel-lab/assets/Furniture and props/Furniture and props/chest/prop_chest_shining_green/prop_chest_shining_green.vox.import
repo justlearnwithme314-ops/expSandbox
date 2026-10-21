@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cjji1x2t4afr6"
+path="res://.godot/imported/prop_chest_shining_green.vox-ce9aa2ee22505fd7bf145632b9dc0433.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/chest/prop_chest_shining_green/prop_chest_shining_green.vox"
+dest_files=["res://.godot/imported/prop_chest_shining_green.vox-ce9aa2ee22505fd7bf145632b9dc0433.tscn"]
+
+[params]
+

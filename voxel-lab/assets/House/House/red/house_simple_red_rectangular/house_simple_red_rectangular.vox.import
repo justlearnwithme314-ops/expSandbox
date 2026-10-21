@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://t4yn2liogyca"
+path="res://.godot/imported/house_simple_red_rectangular.vox-8f18a93870fecc3c728405f6b918946c.tscn"
+
+[deps]
+
+source_file="res://assets/House/House/red/house_simple_red_rectangular/house_simple_red_rectangular.vox"
+dest_files=["res://.godot/imported/house_simple_red_rectangular.vox-8f18a93870fecc3c728405f6b918946c.tscn"]
+
+[params]
+

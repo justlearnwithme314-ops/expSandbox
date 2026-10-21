@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b7482l0xlrdkq"
+path="res://.godot/imported/token-v2-green.obj-e8f96280e6ee8005241738e1b9192ffe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/token-v2-green.obj-e8f96280e6ee8005241738e1b9192ffe.mesh"]
+
+source_file="res://assets/BoardGames-obj/obj/Pieces/Token/token-v2-green.obj"
+dest_files=["res://.godot/imported/token-v2-green.obj-e8f96280e6ee8005241738e1b9192ffe.mesh", "res://.godot/imported/token-v2-green.obj-e8f96280e6ee8005241738e1b9192ffe.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

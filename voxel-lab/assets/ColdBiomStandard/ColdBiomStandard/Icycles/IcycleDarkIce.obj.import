@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vqjskmwdeg2e"
+path="res://.godot/imported/IcycleDarkIce.obj-f5cb6f13582f30df2d5ba2154a796c0d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/IcycleDarkIce.obj-f5cb6f13582f30df2d5ba2154a796c0d.mesh"]
+
+source_file="res://assets/ColdBiomStandard/ColdBiomStandard/Icycles/IcycleDarkIce.obj"
+dest_files=["res://.godot/imported/IcycleDarkIce.obj-f5cb6f13582f30df2d5ba2154a796c0d.mesh", "res://.godot/imported/IcycleDarkIce.obj-f5cb6f13582f30df2d5ba2154a796c0d.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

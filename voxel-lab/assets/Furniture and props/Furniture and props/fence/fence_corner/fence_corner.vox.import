@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dks4b7ki5sejh"
+path="res://.godot/imported/fence_corner.vox-7cba8c96e2a1013d41c69f14fdad8049.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/fence/fence_corner/fence_corner.vox"
+dest_files=["res://.godot/imported/fence_corner.vox-7cba8c96e2a1013d41c69f14fdad8049.tscn"]
+
+[params]
+

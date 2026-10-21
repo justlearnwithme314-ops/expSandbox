@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b3y6lmb0yc26e"
+path="res://.godot/imported/TownHall.obj-0f51ae3a1b7fd5157a46cdf5e0915fdc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/TownHall.obj-0f51ae3a1b7fd5157a46cdf5e0915fdc.mesh"]
+
+source_file="res://assets/Medieval Voxel Buildings by JoseluGames/Exported/TownHall.obj"
+dest_files=["res://.godot/imported/TownHall.obj-0f51ae3a1b7fd5157a46cdf5e0915fdc.mesh", "res://.godot/imported/TownHall.obj-0f51ae3a1b7fd5157a46cdf5e0915fdc.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

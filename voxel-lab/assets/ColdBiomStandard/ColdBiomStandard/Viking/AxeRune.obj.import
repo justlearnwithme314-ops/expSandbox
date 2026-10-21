@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c6ddjg84c5b7p"
+path="res://.godot/imported/AxeRune.obj-810064505ffb91ebc68ab344f3f7899c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/AxeRune.obj-810064505ffb91ebc68ab344f3f7899c.mesh"]
+
+source_file="res://assets/ColdBiomStandard/ColdBiomStandard/Viking/AxeRune.obj"
+dest_files=["res://.godot/imported/AxeRune.obj-810064505ffb91ebc68ab344f3f7899c.mesh", "res://.godot/imported/AxeRune.obj-810064505ffb91ebc68ab344f3f7899c.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

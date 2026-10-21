@@ -1,0 +1,67 @@
+[gd_scene load_steps=5 format=3 uid="uid://do7kyk8abtkdu"]
+
+[ext_resource type="PackedScene" uid="uid://c1d7erbou7cmf" path="res://assets/boards/tictactoe/tictactoe-board-black-white.gltf" id="1_q81as"]
+[ext_resource type="PackedScene" uid="uid://baccjom6ikgjn" path="res://assets/pieces/xo/x-v1-white-black.gltf" id="3_jekqh"]
+[ext_resource type="PackedScene" uid="uid://dtntmb6fqyd3h" path="res://assets/pieces/xo/o-v1-white-black.gltf" id="3_mq8pl"]
+
+[sub_resource type="Environment" id="Environment_hrloj"]
+glow_enabled = true
+glow_strength = 0.8
+adjustment_brightness = 2.0
+adjustment_contrast = 1.13
+adjustment_saturation = 3.28
+
+[node name="Tictactoe" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_hrloj")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 10, 0)
+light_energy = 0.4
+shadow_enabled = true
+distance_fade_shadow = 0.0
+distance_fade_length = 97.15
+omni_range = 30.0
+omni_attenuation = -0.4
+
+[node name="OmniLight3D3" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.2, 22.4, 0)
+light_energy = 1.1
+light_size = 1.0
+shadow_enabled = true
+omni_range = 56.988
+omni_attenuation = 0.206
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.906308, -0.344488, 0.244815, 0, 0.579281, 0.815128, -0.422618, -0.738757, 0.525007, 14.2, 46.8, 30)
+projection = 1
+fov = 32.0
+size = 12.862
+
+[node name="tictactoe-board-black-white" parent="." instance=ExtResource("1_q81as")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.623, 0)
+
+[node name="o-v1-white-black" parent="tictactoe-board-black-white" instance=ExtResource("3_mq8pl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.4, 0.623, 0)
+
+[node name="o-v1-white-black3" parent="tictactoe-board-black-white" instance=ExtResource("3_mq8pl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.4, 0.623, 2.4)
+
+[node name="o-v1-white-black4" parent="tictactoe-board-black-white" instance=ExtResource("3_mq8pl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.623, -2.4)
+
+[node name="o-v1-white-black2" parent="tictactoe-board-black-white" instance=ExtResource("3_mq8pl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4, 0.623, 0)
+
+[node name="o-v1-white-black5" parent="tictactoe-board-black-white" instance=ExtResource("3_mq8pl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4, 0.623, 0)
+
+[node name="x-v1-white-black" parent="tictactoe-board-black-white" instance=ExtResource("3_jekqh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.623, 0)
+
+[node name="x-v1-white-black2" parent="tictactoe-board-black-white" instance=ExtResource("3_jekqh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.623, 2.4)
+
+[node name="x-v1-white-black3" parent="tictactoe-board-black-white" instance=ExtResource("3_jekqh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4, 0.623, -2.4)

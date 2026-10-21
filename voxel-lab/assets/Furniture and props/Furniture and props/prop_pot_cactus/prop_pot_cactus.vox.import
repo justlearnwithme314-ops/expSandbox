@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://ckso3cunkk1x3"
+path="res://.godot/imported/prop_pot_cactus.vox-f8bafd779a2cd9d44349b79530a5fd58.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_pot_cactus/prop_pot_cactus.vox"
+dest_files=["res://.godot/imported/prop_pot_cactus.vox-f8bafd779a2cd9d44349b79530a5fd58.tscn"]
+
+[params]
+

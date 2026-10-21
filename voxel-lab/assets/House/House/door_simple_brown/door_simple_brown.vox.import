@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://s63e16yjusiy"
+path="res://.godot/imported/door_simple_brown.vox-87b1c6e9f5f5edde44a8391c2fd0219d.tscn"
+
+[deps]
+
+source_file="res://assets/House/House/door_simple_brown/door_simple_brown.vox"
+dest_files=["res://.godot/imported/door_simple_brown.vox-87b1c6e9f5f5edde44a8391c2fd0219d.tscn"]
+
+[params]
+

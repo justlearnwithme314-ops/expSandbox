@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2r3ei66wr4av"
+path="res://.godot/imported/chest_lid.obj-d262389a3d833c45923ff273ed2ea9aa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chest_lid.obj-d262389a3d833c45923ff273ed2ea9aa.mesh"]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Obj/chest_lid.obj"
+dest_files=["res://.godot/imported/chest_lid.obj-d262389a3d833c45923ff273ed2ea9aa.mesh", "res://.godot/imported/chest_lid.obj-d262389a3d833c45923ff273ed2ea9aa.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

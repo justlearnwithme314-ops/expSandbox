@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://co4unsvhkwvry"
+path="res://.godot/imported/S_CrystalPlacement_BtoP.vox-c62048f16230d4c088d9e27f46c20aaa.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_CrystalPlacement_BtoP.vox"
+dest_files=["res://.godot/imported/S_CrystalPlacement_BtoP.vox-c62048f16230d4c088d9e27f46c20aaa.tscn"]
+
+[params]
+

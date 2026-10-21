@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dnhfgk4dvi1pk"
+path="res://.godot/imported/chest_gold.vox-c106bd76a633774e4a00b1eb8c379e4c.tscn"
+
+[deps]
+
+source_file="res://assets/Simple Voxel Art Coins and More/Chests/chest_gold.vox"
+dest_files=["res://.godot/imported/chest_gold.vox-c106bd76a633774e4a00b1eb8c379e4c.tscn"]
+
+[params]
+

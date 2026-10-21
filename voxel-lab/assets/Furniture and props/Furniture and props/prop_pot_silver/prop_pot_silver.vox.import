@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b3ysisvprypro"
+path="res://.godot/imported/prop_pot_silver.vox-0aa475378c8642169824100533d5b258.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_pot_silver/prop_pot_silver.vox"
+dest_files=["res://.godot/imported/prop_pot_silver.vox-0aa475378c8642169824100533d5b258.tscn"]
+
+[params]
+

@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://oo633254vkxh"
+path="res://.godot/imported/RoofEmptySnowed.obj-634f73151ecff149a8665ac47ecde40e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/RoofEmptySnowed.obj-634f73151ecff149a8665ac47ecde40e.mesh"]
+
+source_file="res://assets/ColdBiomStandard/ColdBiomStandard/House/RoofEmptySnowed.obj"
+dest_files=["res://.godot/imported/RoofEmptySnowed.obj-634f73151ecff149a8665ac47ecde40e.mesh", "res://.godot/imported/RoofEmptySnowed.obj-634f73151ecff149a8665ac47ecde40e.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

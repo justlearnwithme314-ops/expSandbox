@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://da53jyr1h0745"
+path="res://.godot/imported/S_EnergyTube_Pink_Overlay.vox-d2551926e685b92c297adbb73627047f.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_EnergyTube_Pink_Overlay.vox"
+dest_files=["res://.godot/imported/S_EnergyTube_Pink_Overlay.vox-d2551926e685b92c297adbb73627047f.tscn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b7t27krepwyo3"
+path="res://.godot/imported/S_Frame4x4.vox-d90e7e7fba4e989be0fb50372a5bd03d.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Frame4x4.vox"
+dest_files=["res://.godot/imported/S_Frame4x4.vox-d90e7e7fba4e989be0fb50372a5bd03d.tscn"]
+
+[params]
+

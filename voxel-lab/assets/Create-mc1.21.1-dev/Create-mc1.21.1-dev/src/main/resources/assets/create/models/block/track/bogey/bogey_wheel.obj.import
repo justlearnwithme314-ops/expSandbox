@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b7ba465to2618"
+path="res://.godot/imported/bogey_wheel.obj-bebbabcecff75ab161d0c1f5cb69bc6c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bogey_wheel.obj-bebbabcecff75ab161d0c1f5cb69bc6c.mesh"]
+
+source_file="res://minecraf_mos_reference/Create-mc1.21.1-dev/Create-mc1.21.1-dev/src/main/resources/assets/create/models/block/track/bogey/bogey_wheel.obj"
+dest_files=["res://.godot/imported/bogey_wheel.obj-bebbabcecff75ab161d0c1f5cb69bc6c.mesh", "res://.godot/imported/bogey_wheel.obj-bebbabcecff75ab161d0c1f5cb69bc6c.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

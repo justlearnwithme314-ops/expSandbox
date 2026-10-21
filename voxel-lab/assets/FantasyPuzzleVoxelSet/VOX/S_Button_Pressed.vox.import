@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dhmpree6r1deo"
+path="res://.godot/imported/S_Button_Pressed.vox-01e48fee389465615c8bf7ef1d0c9a78.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Button_Pressed.vox"
+dest_files=["res://.godot/imported/S_Button_Pressed.vox-01e48fee389465615c8bf7ef1d0c9a78.tscn"]
+
+[params]
+

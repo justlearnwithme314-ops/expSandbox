@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://doxsjoyghhxjp"
+path="res://.godot/imported/coin_square_gold.vox-45ab5c38a3253000fcb6a9c1a3e6b3f3.tscn"
+
+[deps]
+
+source_file="res://assets/Simple Voxel Art Coins and More/Coins/Square/coin_square_gold.vox"
+dest_files=["res://.godot/imported/coin_square_gold.vox-45ab5c38a3253000fcb6a9c1a3e6b3f3.tscn"]
+
+[params]
+

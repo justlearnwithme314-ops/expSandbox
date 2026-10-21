@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bl7jrlanxbpaw"
+path="res://.godot/imported/tile_raised.vox-eb04b487a74ce4115d2e48cdce8855c6.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/tile_raised.vox"
+dest_files=["res://.godot/imported/tile_raised.vox-eb04b487a74ce4115d2e48cdce8855c6.tscn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://csa18i5t5rx8s"
+path="res://.godot/imported/prop_glass_wine.vox-3d58f6b9afec28e1185c74728defc386.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_glass_wine/prop_glass_wine.vox"
+dest_files=["res://.godot/imported/prop_glass_wine.vox-3d58f6b9afec28e1185c74728defc386.tscn"]
+
+[params]
+

@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://basa5x2vxg0eo"
+path="res://.godot/imported/tavern-1-globe.obj-0893a2ff0cda534f6247d76aea6a0f35.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tavern-1-globe.obj-0893a2ff0cda534f6247d76aea6a0f35.mesh"]
+
+source_file="res://assets/XeehSets_Tavern2-8-2020/Tavern OBJ/tavern-1-globe.obj"
+dest_files=["res://.godot/imported/tavern-1-globe.obj-0893a2ff0cda534f6247d76aea6a0f35.mesh", "res://.godot/imported/tavern-1-globe.obj-0893a2ff0cda534f6247d76aea6a0f35.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

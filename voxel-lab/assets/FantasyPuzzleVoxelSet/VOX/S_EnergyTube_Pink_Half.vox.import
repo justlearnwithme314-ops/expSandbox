@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://c8jmwvkb2l4x8"
+path="res://.godot/imported/S_EnergyTube_Pink_Half.vox-c87c14c26dfde92615d4c6e12617e58e.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_EnergyTube_Pink_Half.vox"
+dest_files=["res://.godot/imported/S_EnergyTube_Pink_Half.vox-c87c14c26dfde92615d4c6e12617e58e.tscn"]
+
+[params]
+

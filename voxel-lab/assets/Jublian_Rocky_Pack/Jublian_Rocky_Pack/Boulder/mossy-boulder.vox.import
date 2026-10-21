@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://l4lenh7gsg1o"
+path="res://.godot/imported/mossy-boulder.vox-187d02f98b2fae990ec4b280840454fa.tscn"
+
+[deps]
+
+source_file="res://assets/Jublian_Rocky_Pack/Jublian_Rocky_Pack/Boulder/mossy-boulder.vox"
+dest_files=["res://.godot/imported/mossy-boulder.vox-187d02f98b2fae990ec4b280840454fa.tscn"]
+
+[params]
+

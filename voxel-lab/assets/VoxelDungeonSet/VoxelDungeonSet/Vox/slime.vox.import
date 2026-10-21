@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cqi8lkvx0tkbn"
+path="res://.godot/imported/slime.vox-69270d4c6b53540097e570e29a56b437.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/slime.vox"
+dest_files=["res://.godot/imported/slime.vox-69270d4c6b53540097e570e29a56b437.tscn"]
+
+[params]
+

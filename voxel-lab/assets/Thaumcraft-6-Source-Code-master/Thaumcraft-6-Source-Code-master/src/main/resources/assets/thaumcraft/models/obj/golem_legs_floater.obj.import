@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://s6di57rhfav0"
+path="res://.godot/imported/golem_legs_floater.obj-5587d019d9788d0d341fed59d036087a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/golem_legs_floater.obj-5587d019d9788d0d341fed59d036087a.mesh"]
+
+source_file="res://minecraf_mos_reference/Thaumcraft-6-Source-Code-master/Thaumcraft-6-Source-Code-master/src/main/resources/assets/thaumcraft/models/obj/golem_legs_floater.obj"
+dest_files=["res://.godot/imported/golem_legs_floater.obj-5587d019d9788d0d341fed59d036087a.mesh", "res://.godot/imported/golem_legs_floater.obj-5587d019d9788d0d341fed59d036087a.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

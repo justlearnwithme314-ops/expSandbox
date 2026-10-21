@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dbpjckng8r5h7"
+path="res://.godot/imported/S_Gun_BtoP.obj-ed816ded6807fe93d28536e83c936924.mesh"
+
+[deps]
+
+files=["res://.godot/imported/S_Gun_BtoP.obj-ed816ded6807fe93d28536e83c936924.mesh"]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/OBJ/S_Gun_BtoP.obj"
+dest_files=["res://.godot/imported/S_Gun_BtoP.obj-ed816ded6807fe93d28536e83c936924.mesh", "res://.godot/imported/S_Gun_BtoP.obj-ed816ded6807fe93d28536e83c936924.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

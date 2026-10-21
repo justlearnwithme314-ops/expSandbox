@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c30lo73r8ii3r"
+path="res://.godot/imported/golem_base.obj-850d408d76b9d6f2d464ccba0558da4e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/golem_base.obj-850d408d76b9d6f2d464ccba0558da4e.mesh"]
+
+source_file="res://minecraf_mos_reference/Thaumcraft-6-Source-Code-master/Thaumcraft-6-Source-Code-master/src/main/resources/assets/thaumcraft/models/obj/golem_base.obj"
+dest_files=["res://.godot/imported/golem_base.obj-850d408d76b9d6f2d464ccba0558da4e.mesh", "res://.godot/imported/golem_base.obj-850d408d76b9d6f2d464ccba0558da4e.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

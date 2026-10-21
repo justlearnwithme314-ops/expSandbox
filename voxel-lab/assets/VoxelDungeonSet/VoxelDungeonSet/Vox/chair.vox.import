@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cu5yjdy0obvc4"
+path="res://.godot/imported/chair.vox-8144f8b7261657751b2852110e2f7d06.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/chair.vox"
+dest_files=["res://.godot/imported/chair.vox-8144f8b7261657751b2852110e2f7d06.tscn"]
+
+[params]
+

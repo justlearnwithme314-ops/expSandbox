@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cmkoyupg4p0b7"
+path="res://.godot/imported/S_Crystal_GreenPointer.vox-7e8d63f98a02b1421995d6ec2bfb4ec9.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Crystal_GreenPointer.vox"
+dest_files=["res://.godot/imported/S_Crystal_GreenPointer.vox-7e8d63f98a02b1421995d6ec2bfb4ec9.tscn"]
+
+[params]
+

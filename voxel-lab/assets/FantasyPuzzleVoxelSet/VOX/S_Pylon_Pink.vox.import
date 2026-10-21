@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://itnay3hrnhlr"
+path="res://.godot/imported/S_Pylon_Pink.vox-763e0e3aa7f3a5f0706b5d804fd11a94.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Pylon_Pink.vox"
+dest_files=["res://.godot/imported/S_Pylon_Pink.vox-763e0e3aa7f3a5f0706b5d804fd11a94.tscn"]
+
+[params]
+

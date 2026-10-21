@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://btfnwc38yn0ui"
+path="res://.godot/imported/door.vox-c102b758f0939982c58cf2af257a4e0e.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/door.vox"
+dest_files=["res://.godot/imported/door.vox-c102b758f0939982c58cf2af257a4e0e.tscn"]
+
+[params]
+

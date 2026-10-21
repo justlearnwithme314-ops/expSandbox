@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://kocqluursj5j"
+path="res://.godot/imported/wizard_staff.vox-cc0eb31037069a8866ea697e94fd5186.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/wizard_staff.vox"
+dest_files=["res://.godot/imported/wizard_staff.vox-cc0eb31037069a8866ea697e94fd5186.tscn"]
+
+[params]
+

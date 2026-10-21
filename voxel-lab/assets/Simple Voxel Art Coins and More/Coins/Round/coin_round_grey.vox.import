@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://b1clk53lq53s1"
+path="res://.godot/imported/coin_round_grey.vox-3075eca6b0386ca3433e18394f1c759f.tscn"
+
+[deps]
+
+source_file="res://assets/Simple Voxel Art Coins and More/Coins/Round/coin_round_grey.vox"
+dest_files=["res://.godot/imported/coin_round_grey.vox-3075eca6b0386ca3433e18394f1c759f.tscn"]
+
+[params]
+

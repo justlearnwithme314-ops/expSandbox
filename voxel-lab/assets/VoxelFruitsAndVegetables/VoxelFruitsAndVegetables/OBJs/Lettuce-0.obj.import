@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bep7gijjqymrt"
+path="res://.godot/imported/Lettuce-0.obj-69a897458f074463eee0262b68aba6f1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Lettuce-0.obj-69a897458f074463eee0262b68aba6f1.mesh"]
+
+source_file="res://assets/VoxelFruitsAndVegetables/VoxelFruitsAndVegetables/OBJs/Lettuce-0.obj"
+dest_files=["res://.godot/imported/Lettuce-0.obj-69a897458f074463eee0262b68aba6f1.mesh", "res://.godot/imported/Lettuce-0.obj-69a897458f074463eee0262b68aba6f1.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

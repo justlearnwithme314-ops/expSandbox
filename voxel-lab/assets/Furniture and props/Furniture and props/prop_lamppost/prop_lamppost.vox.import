@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cagy4c0idjps4"
+path="res://.godot/imported/prop_lamppost.vox-e1dd5a62323d4bf7aa4f3aa41f548aa1.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_lamppost/prop_lamppost.vox"
+dest_files=["res://.godot/imported/prop_lamppost.vox-e1dd5a62323d4bf7aa4f3aa41f548aa1.tscn"]
+
+[params]
+

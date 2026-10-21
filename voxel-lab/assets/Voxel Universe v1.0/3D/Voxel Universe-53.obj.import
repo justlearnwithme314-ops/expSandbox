@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vjgqxrggo280"
+path="res://.godot/imported/Voxel Universe-53.obj-901eab33d81e33363fa171525a7e2a22.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Voxel Universe-53.obj-901eab33d81e33363fa171525a7e2a22.mesh"]
+
+source_file="res://assets/Voxel Universe v1.0/3D/Voxel Universe-53.obj"
+dest_files=["res://.godot/imported/Voxel Universe-53.obj-901eab33d81e33363fa171525a7e2a22.mesh", "res://.godot/imported/Voxel Universe-53.obj-901eab33d81e33363fa171525a7e2a22.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

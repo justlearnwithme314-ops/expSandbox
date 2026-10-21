@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bn8ldn2nr1bmw"
+path="res://.godot/imported/S_StonePlate_Blue_Direct.vox-4c7b50bd4f866e6f0f354e2ede46742b.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_StonePlate_Blue_Direct.vox"
+dest_files=["res://.godot/imported/S_StonePlate_Blue_Direct.vox-4c7b50bd4f866e6f0f354e2ede46742b.tscn"]
+
+[params]
+

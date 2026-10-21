@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://nwudxjot8nt2"
+path="res://.godot/imported/S_Circle.vox-f2d4c33efbe3c4362090680456c13abc.tscn"
+
+[deps]
+
+source_file="res://assets/FantasyPuzzleVoxelSet/VOX/S_Circle.vox"
+dest_files=["res://.godot/imported/S_Circle.vox-f2d4c33efbe3c4362090680456c13abc.tscn"]
+
+[params]
+

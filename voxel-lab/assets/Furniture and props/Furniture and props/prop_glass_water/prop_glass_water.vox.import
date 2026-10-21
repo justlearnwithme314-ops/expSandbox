@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dov0v1fegobw6"
+path="res://.godot/imported/prop_glass_water.vox-7bd3c9bc03c821c71a645bc629fc5a3c.tscn"
+
+[deps]
+
+source_file="res://assets/Furniture and props/Furniture and props/prop_glass_water/prop_glass_water.vox"
+dest_files=["res://.godot/imported/prop_glass_water.vox-7bd3c9bc03c821c71a645bc629fc5a3c.tscn"]
+
+[params]
+

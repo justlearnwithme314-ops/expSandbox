@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cf3kw78v3cmyn"
+path="res://.godot/imported/overworld-41-grassland_3px.obj-023d49445d74ef43742849d71c27a1af.mesh"
+
+[deps]
+
+files=["res://.godot/imported/overworld-41-grassland_3px.obj-023d49445d74ef43742849d71c27a1af.mesh"]
+
+source_file="res://assets/Hexatilesv1(1)/Obj/overworld-41-grassland_3px.obj"
+dest_files=["res://.godot/imported/overworld-41-grassland_3px.obj-023d49445d74ef43742849d71c27a1af.mesh", "res://.godot/imported/overworld-41-grassland_3px.obj-023d49445d74ef43742849d71c27a1af.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

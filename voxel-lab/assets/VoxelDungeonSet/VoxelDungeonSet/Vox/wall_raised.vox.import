@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://bkjr2n52nidse"
+path="res://.godot/imported/wall_raised.vox-cb5e99df89eb451dfefd8beed40e7ab7.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/wall_raised.vox"
+dest_files=["res://.godot/imported/wall_raised.vox-cb5e99df89eb451dfefd8beed40e7ab7.tscn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cqdxm0qjvsc2u"
+path="res://.godot/imported/pillar.vox-772cc6798c0ae07fe6727c7fc7a6b48c.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/pillar.vox"
+dest_files=["res://.godot/imported/pillar.vox-772cc6798c0ae07fe6727c7fc7a6b48c.tscn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://d21scbm7htld0"
+path="res://.godot/imported/wood_beam.vox-a34c0a6d4b4e283871424acb12759e55.tscn"
+
+[deps]
+
+source_file="res://assets/VoxelDungeonSet/VoxelDungeonSet/Vox/wood_beam.vox"
+dest_files=["res://.godot/imported/wood_beam.vox-a34c0a6d4b4e283871424acb12759e55.tscn"]
+
+[params]
+

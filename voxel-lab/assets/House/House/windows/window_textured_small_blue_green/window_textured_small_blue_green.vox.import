@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://cootwmvvn1tn8"
+path="res://.godot/imported/window_textured_small_blue_green.vox-60b708fb33bf0145bf65f3409b439dab.tscn"
+
+[deps]
+
+source_file="res://assets/House/House/windows/window_textured_small_blue_green/window_textured_small_blue_green.vox"
+dest_files=["res://.godot/imported/window_textured_small_blue_green.vox-60b708fb33bf0145bf65f3409b439dab.tscn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxSceneImporter"
+type="PackedScene"
+uid="uid://dm0vyfy1837ci"
+path="res://.godot/imported/coin_round_blue.vox-e5a357f17b316a74f7bc4398546e201f.tscn"
+
+[deps]
+
+source_file="res://assets/Simple Voxel Art Coins and More/Coins/Round/coin_round_blue.vox"
+dest_files=["res://.godot/imported/coin_round_blue.vox-e5a357f17b316a74f7bc4398546e201f.tscn"]
+
+[params]
+
